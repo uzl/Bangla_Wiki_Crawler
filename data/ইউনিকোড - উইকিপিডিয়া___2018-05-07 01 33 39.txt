@@ -1,0 +1,514 @@
+
+ইউনিকোড একটি আন্তর্জাতিক বর্ণ সংকেতায়ন ব্যবস্থা। ইউনিকোড কনসোর্টিয়াম সংস্থা এর রক্ষণাবেক্ষণের দায়িত্ব পালন করে। যেকোন প্রতিষ্ঠান বা ব্যক্তি ফি দিয়ে সংস্থাটির সদস্য হতে পারে। বর্তমানে ইউনিকোডে ১০,০০০ এর বেশি বর্ণ তালিকাভুক্ত রয়েছে। বিশ্বের প্রায় সব প্রধান কম্পিউটার সফ্টওয়্যার ও হার্ডওয়্যার প্রতিষ্ঠানসমূহ সংস্থাটির বর্তমান সদস্য, যেমন Apple Computer, Microsoft, IBM, Xerox, HP, Adobe Systems এবং আরও অনেক প্রতিষ্ঠান যারা টেক্সট্-প্রসেসিং স্ট্যান্ডার্ড সম্পর্কে আগ্রহী। ইউনিকোড কনসোটিয়াম একটি অলাভজনক সংগঠন যেটি ইউনিকোডের উন্নয়নে কাজ করে যাচ্ছে এই সংগঠনের মূল লক্ষ হচ্ছে সকল ভাষাকে একটি নির্দিষ্ট মানদন্ডে নিয়ে আসা।
+
+
+
+পরিচ্ছেদসমূহ
+
+
+১ ইতিহাস
+
+১.১ স্থাপত্য ও পরিভাষা
+
+
+২ ইউনিকোডের গঠন[২]
+৩ ইউনিকোডে অন্তর্ভুক্ত লিপিসমূহ
+৪ তথ্যসুত্র
+৫ বহিঃসংযোগ
+
+
+
+ইতিহাস
+১৯৮৭ সালে ইউনিকোডের কাজ শুরু করেছিলেন জেরোক্স (Xerox) এর জো বেকার (Joe Becker) এবং অ্যাপল (Apple) এর লি কলিন্স (Lee Collins) ও মার্ক ডেভিস (Mark Davis)। তাঁদের মূল লক্ষ্য ছিল সকল ভাষাকে একটি সার্বজনীন সংকেতায়নের মানদন্ডে নিয়ে আসা।ফলশ্রুতিতে পরবর্তী বছরের আগষ্ট মাসে জো বেকার "International/multilingual text character encoding system, tentatively called Unicode." (অনুবাদ : "আন্তর্জাতিক/বহুভাষিক বর্ণ সংকেতায়ন ব্যবস্থা") নামে একটি খসড়া প্রস্তবনা তৈরি করেন। এই প্রস্তাবনাটি ছিল একটি ১৬ বিট এর বর্ণ সংকেতায়ন ব্যবস্থা:
+
+Unicode is intended to address the need for a workable, reliable world text encoding. Unicode could be roughly described as "wide-body ASCII" that has been stretched to 16 bits to encompass the characters of all the world's living languages. In a properly engineered design, 16 bits per character are more than sufficient for this purpose.
+
+১৬ বিট এর বর্ণ সংকেতায়ন ব্যবস্থার কারণ ছিল তিনি মনে করেছিলেন শুধুমাত্র আধুনিক ভাষার বর্ণগুলি ব্যবহৃত হবে।
+
+Unicode gives higher priority to ensuring utility for the future than to preserving past antiquities. Unicode aims in the first instance at the characters published in modern text (e.g. in the union of all newspapers and magazines printed in the world in 1988), whose number is undoubtedly far below 214 = 16,384. Beyond those modern-use characters, all others may be defined to be obsolete or rare; these are better candidates for private-use registration than for congesting the public list of generally-useful Unicodes.
+
+পরবর্তীতে অনেক পুরাতন ভাষার জন্য ও তালিকাভুক্ত করার প্রয়োজন পড়ে। এদের মাঝ এমন ভাষাও রয়েছে যেগুলি বর্তমানে আর ব্যবহৃত হয় না। (যেমন: মিশরীয় চিত্রলিপি, লিনিয়ার-এ, লিনিয়ার-বি ইত্যাদি)
+১৯৮৯ সালে মেটাফোর (Metaphor)-এর কেন হুইস্লার (Ken Whistler) এবং মাইক কার্নাগান (Mike Kernaghan), আর.এল.জি (RLG)-এর ক্যারেন স্মিথ-ইয়োশিমুরা (Karen Smith-Yoshimura) ও জোয়ান আলিপ্র্যান্ড (Joan Aliprand) এবং সান মাইক্রোসিস্টেমস্ (Sun Microsystems)-এর গ্লেন্ রাইট (Glenn Wright) ইউনিকোডের গ্রুপে যোগদান করেন। পরবর্তীতে ১৯৯০ সালে মাইক্রোসফ্ট (Microsoft)-এর মিচেল সুইগনার্ড (Michel Suignard) ও অ্যাস্মাস ফ্রেইট্যাগ (Asmus Freytag) এবং NeXT এর রিক ম্যাকগোয়ান (Rick McGowan) যোগদান করেন। ১৯৯০ সালের শেষের দিকে ইউনিকোডের খসড়া প্রস্তাবনা সম্পন্ন হয়। ১৯৯১ এর অক্টবরে ইউনিকোডের প্রথম খন্ড প্রকাশিত হয়। ১৯৯২ সালের জুনে ইউনিকোডের দ্বিতীয় খন্ড প্রকাশিত হয়।
+স্থাপত্য ও পরিভাষা
+ইউনিকোডের গঠন
+বুলীয় বীজগণিতের নিয়মে গণনা করায় কম্পিউটার কেবলমাত্র শূন্য বা ০ বা অফ এবং এক বা ১ বা অন এই দুটি অবস্থা বোঝে । এক-একটি সংখ্যাকে বোঝানোর জন্য কম্পিউটারে ০ এবং ১ এর বিভিন্ন ক্রম ব্যবহার করা হয় । কম্পিউটারে লিপি বা অন্যান্য অক্ষর সংরক্ষিত হয় সেই অক্ষরগুলির প্রতিটির জন্য ০ ও ১-এর অদ্বিতীয় একটি ক্রম দিয়ে । একটি বর্ণ সংকেতায়ন ব্যবহ্থা এরূপ একটি অদ্বিতীয় ক্রমের সঙ্গে একটি অক্ষরকে সংযুক্ত করে । এই সমস্ত ক্রমগুলিকে একত্রে বলা হয় কোডস্পেস্ এবং কোডস্পেসের অন্তর্ভুক্ত প্রত্যেকটি ক্রমকে ক‌োড পয়েন্ট বলা হয় । কম্পিউটারে ব্যবহারের জন্য একাধিক বর্ণসংকেতায়ন ব্যবস্থা রয়েছে । প্রত্যেকটি অক্ষরের জন্য বিভিন্ন বর্ণসংকেতায়ন ব্যবস্থায় ওই অদ্বিতীয় সংখ্যার মান ভিন্ন হওয়ায় তথ্য আদানপ্রদানে অসুবিধা দেখা দেয় । ইউনিকোডে প্রত্যেকটি পরিচিত অক্ষরের জন্য একটি করে কোডপয়েন্ট বরাদ্দ করা হয় এবং প্রত্যেকটি কোডপয়েন্টকে একটি অদ্বিতীয় ষষ্ঠদশনিধান বিশিষ্ট পূর্ণসংখ্য দ্বারা চিহ্নিত করা হয় । "U+" এর পর কোডপয়েন্টটির ষষ্ঠদশনিধান বিশিষ্ট সংখ্যাটিকে লিখে কোডপয়েন্টটিকে চিহ্নিত করা হয় । ইউনিকোডে বর্তমানে ১১,১৪,১১২ সংখ্যক ক‌োডপয়েন্ট রয়েছে, যেগুলিকে 016 থেকে 10FFFF16 পর্যন্ত সংখ্যগুলি দ্বারা চিহ্নিত করা হয় । যদিও প্রত্যেকটি কোডপয়েন্ট লিখনযোগ্য অক্ষরকে নির্দেশ করে না । উদাহরণস্বরূপ, U+200F কোডপয়েন্টটি Zero Width Non-Joiner অক্ষরটিকে চিহ্নিত করে, যেটিকে মুদ্রিত করা বা কম্পিউটারের মনিটরে দেখানো সম্ভব নয় ।
+ইউনিকোডে অন্তর্ভুক্ত লিপিসমূহ
+
+
+
+
+
+আরবি
+আর্মেনীয়
+বাংলা
+ব্রাই বা ব্রেইল
+কানাডীয় আদিবাসী
+চেরোকী
+কপ্টীয়
+সিরিলীয়
+দেবনাগরী
+ইথিওপীয়
+জর্জীয়
+
+
+
+
+গ্রিক
+গুজরাটি
+গুরুমুখী (পাঞ্জাবি)
+হান (কাঞ্জি, হাঞ্জা, হাঞ্জি)
+হাঙ্গুল (কোরীয়)
+হিব্রু
+হিরাগানা ও কাতাকানা (জাপানি)
+আ-ধ্ব-ব
+খমের (ক্যাম্বোডীয়)
+কন্নড়
+লাও
+লাতিন
+
+
+
+
+মালয়ালম
+মঙ্গোলীয়
+বর্মী
+ওড়িয়া
+সিরীয়
+তামিল
+তেলুগু
+থাই
+তিব্বতি
+টিফিনাঘ
+য়ি
+ঝুয়িন
+
+
+
+
+তথ্যসুত্র
+
+
+↑ ক খ Becker, Joseph D. (আগস্ট ২৯, ১৯৮৮)।  (PDF)। উদ্ধৃতি টেমপ্লেট ইংরেজি প্যারামিটার ব্যবহার করেছে (link)
+↑ 
+↑ 
+↑ ক খ গ 
+
+
+বহিঃসংযোগ
+
+
+
+ইউনিকোড সম্পর্কে আরও
+তথ্য পেতে উইকিপিডিয়ার সহপ্রকল্পসমূহে
+অনুসন্ধান করে দেখুন
+
+
+
+
+উইকিঅভিধান হতে সংজ্ঞা
+
+
+
+কমন্স হতে মিডিয়া
+
+
+
+উইকিবই হতে পাঠ্যবই
+
+
+
+মেটা-উইকি হতে আলোচনা
+
+
+
+
+উন্মুক্ত নির্দেশিকা প্রকল্পে 
+ Contains lists of word processors with Unicode capability; fonts and characters are grouped by type; characters are presented in lists, not grids
+
+
+
+
+
+
+
+দে
+
+
+
+ইউনিকোড
+
+
+
+ইউনিকোড
+
+
+
+Unicode Consortium
+ISO/IEC 10646 (Universal Character Set)
+Versions
+
+
+
+
+
+Code points
+
+
+
+Block
+Character charts
+Character property
+Mapping characters
+Plane
+Private Use Area
+
+
+
+
+
+Characters
+
+
+
+
+
+Special purpose
+
+
+
+
+BOM
+Combining grapheme joiner
+Left-to-right mark / Right-to-left mark
+Soft hyphen
+Zero-width joiner
+Zero-width no-break space
+Zero-width non-joiner
+Zero-width space
+
+
+
+
+
+
+Lists
+
+
+
+
+CJK Unified Ideographs
+Combining character
+Duplicate characters
+Numerals
+Scripts
+Spaces
+Symbols
+Halfwidth and fullwidth
+
+
+
+
+
+
+
+
+Processing
+
+
+
+
+
+Algorithms
+
+
+
+
+Bi-directional text
+Collation
+
+ISO 14651
+
+
+Equivalence
+
+
+
+
+
+
+Comparison
+
+
+
+
+BOCU-1
+CESU-8
+Punycode
+SCSU
+UTF-1
+UTF-7
+UTF-8
+UTF-9/UTF-18
+UTF-16/UCS-2
+UTF-32/UCS-4
+UTF-EBCDIC
+
+
+
+
+
+
+
+
+On pairs of
+code points
+
+
+
+Combining character
+Compatibility characters
+Duplicate characters
+Equivalence
+Homoglyph
+Precomposed character
+
+list
+
+
+Z-variant
+
+
+
+
+
+Usage
+
+
+
+Domain names (IDN)
+Email
+Fonts
+HTML
+
+entity references
+numeric references
+
+
+Input
+Private Character Editor (MS)
+
+
+
+
+
+Related standards
+
+
+
+Common Locale Data Repository (CLDR)
+GB 18030
+Han unification
+ISO/IEC 8859
+আইএসও ১৫৯২৪
+
+
+
+
+
+Related topics
+
+
+
+Anomalies
+ConScript Unicode Registry
+Ideographic Rapporteur Group
+International Components for Unicode
+People involved with Unicode
+
+
+
+
+
+
+
+
+
+
+ইউনিকোডে লিপি
+
+
+
+
+Common and
+inherited scripts
+
+
+
+
+Combining marks
+Diacritics
+Punctuation
+Space
+
+
+
+
+
+
+আধুনিক লিপি
+
+
+
+
+আরবি
+
+diacritics
+
+
+Armenian
+Balinese
+Bamum
+Batak
+বাংলা
+Bopomofo
+ব্রেইল
+Buhid
+Burmese
+Canadian Aboriginal
+চাকমা
+Cham
+Cherokee
+CJK Unified Ideographs (Han)
+Cyrillic
+Deseret
+দেবনাগরী
+Ge'ez
+Georgian
+গ্রিক
+গুজরাটি
+গুরুমুখী
+Hangul
+Hanja
+Hanunó'o
+Hebrew
+
+diacritics
+
+
+Hiragana
+Javanese
+Kanji
+Kannada
+Katakana
+Kayah Li
+Khmer
+Lao
+Latin
+লেপচা
+লিম্বু
+Lisu (Fraser)
+Lontara
+Malayalam
+মাঞ্চু
+Mandaic
+Meetei Mayek
+Miao (Pollard)
+Mongolian
+N'Ko
+New Tai Lue
+অলচিকি
+Oriya
+Osmanya
+Rejang
+Samaritan
+শারদা
+সৌরাষ্ট্র
+Shavian
+Sinhala
+Sorang Sompeng
+Sundanese
+Sylheti Nagari
+Syriac
+Tagalog (Baybayin)
+Tagbanwa
+Tai Le
+Tai Tham
+Tai Viet
+Takri
+তামিল
+তেলুগু
+Thaana
+থাই
+তিব্বতী
+Tifinagh
+Vai
+Yi
+
+
+
+
+
+
+প্রাচীন লিপি
+
+
+
+
+Avestan
+ব্রাহ্মী
+Carian
+Coptic
+কিউনিফর্ম
+Cypriot
+মিশরীয় হায়ারোগ্লিফিক
+Glagolitic
+Gothic
+Imperial Aramaic
+Inscriptional Pahlavi
+Inscriptional Parthian
+Kaithi
+খরোষ্ঠী
+Linear B
+Lycian
+Lydian
+Meroitic
+Nom
+Ogham
+Old Italic
+Old Persian cuneiform
+Old Turkic
+'Phags-pa
+Phoenician
+Runic
+South Arabian
+Ugaritic
+
+
+
+
+
+
+চিহ্ন
+
+
+
+
+Cultural, political, and religious symbols
+Currency
+Mathematical operators and symbols
+Phonetic symbols (including IPA)
+
+
+
+
+
+
+
+
+
+টেমপ্লেট:Character encoding
+
+
+
+
+

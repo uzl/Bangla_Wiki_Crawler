@@ -1,0 +1,2015 @@
+
+
+
+
+
+পরিচ্ছেদসমূহ
+
+
+১ বর্তমান প্রতীকসমূহ
+২ বর্তমানে অব্যবহৃত প্রতীকসমূহ
+
+২.১ চিত্রমূলক প্রতীকসমূহ
+
+
+৩ নামাঙ্কিত সমাণুকসমূহ
+৪ অন্যান্য প্রতীক যেগুলো দেখতে মৌলের প্রতীকের মত
+৫ মন্তব্য
+৬ তথ্যসূত্র
+৭ বহিঃসংযোগ
+
+
+
+
+
+
+
+পর্যায় সারণীর রাসায়নিক শ্রেণীসমূহ
+
+
+ধাতু
+Metalloid
+অধাতু
+অজানা
+রাসায়নিক
+বৈশিষ্ট
+
+
+ক্ষার
+ধাতু
+মৃৎ
+ক্ষার ধাতু
+Inner transition metal
+অবস্থান্তর
+ধাতু
+Post-transition
+metal
+অন্যান্য
+অধাতু
+হ্যালোজেন
+নিষ্ক্রিয়
+গ্যাস
+
+
+ল্যান্থানাইড
+অ্যাক্টিনাইড
+
+
+
+
+
+
+
+
+বর্তমান প্রতীকসমূহ
+
+
+Symbol
+Name
+Origin of Symbol
+Atomic Number
+Atomic Mass
+Group
+Period
+
+
+Ac
+Actinium
+Greek aktinos
+89
+[227]
+ 
+7
+
+
+Ag
+Silver
+Latin argentum
+47
+107.8682(2)
+11
+5
+
+
+Al
+Aluminium (Aluminum)
+Latin alumen
+13
+26.9815386(8)
+13
+3
+
+
+Am
+Americium
+the Americas
+95
+[243]
+ 
+7
+
+
+Ar
+Argon
+Greek argon
+18
+39.948(1)
+18
+3
+
+
+As
+Arsenic
+Greek arsenikos
+33
+74.92160(2)
+15
+4
+
+
+At
+Astatine
+Greek astatos
+85
+[210]
+17
+6
+
+
+Au
+Gold
+Latin aurum
+79
+196.966569(4)
+11
+6
+
+
+B
+Boron
+borax and carbon
+5
+10.811(7)
+13
+2
+
+
+Ba
+Barium
+Greek barys
+56
+137.327(7)
+2
+6
+
+
+Be
+Beryllium
+beryl
+4
+9.012182(3)
+2
+2
+
+
+Bh
+Bohrium
+Niels Bohr
+107
+[264]
+7
+7
+
+
+Bi
+Bismuth
+corruption of the German wissmuth
+83
+208.98040(1)
+15
+6
+
+
+Bk
+Berkelium
+Berkeley, California
+97
+[247]
+ 
+7
+
+
+Br
+Bromine
+Greek bromos
+35
+79.904(1)
+17
+4
+
+
+C
+Carbon
+Latin carbo
+6
+12.0107(8)
+14
+2
+
+
+Ca
+Calcium
+Latin calx
+20
+40.078(4)
+2
+4
+
+
+Cd
+Cadmium
+Greek kadmia
+48
+112.411(8)
+12
+5
+
+
+Ce
+Cerium
+Ceres
+58
+140.116(1)
+ 
+6
+
+
+Cf
+Californium
+State and University of California
+98
+[251]
+ 
+7
+
+
+Cl
+Chlorine
+Greek chloros
+17
+35.453(2)
+17
+3
+
+
+Cm
+Curium
+Pierre and Marie Curie
+96
+[247]
+ 
+7
+
+
+Co
+Cobalt
+German kobold
+27
+58.933195(5)
+9
+4
+
+
+Cr
+Chromium
+Greek chroma
+24
+51.9961(6)
+6
+4
+
+
+Cs
+Caesium (Cesium)
+Latin caesius
+55
+132.9054519(2)
+1
+6
+
+
+Cu
+Copper
+Latin Cuprum
+29
+63.546(3)
+11
+4
+
+
+Db
+Dubnium
+Dubna, Russia
+105
+[262]
+5
+7
+
+
+Ds
+Darmstadtium
+Darmstadt, Germany
+110
+[271]
+10
+7
+
+
+Dy
+Dysprosium
+Greek dysprositos
+66
+162.500(1)
+ 
+6
+
+
+Er
+Erbium
+Ytterby, Sweden
+68
+167.259(3)
+ 
+6
+
+
+Es
+Einsteinium
+Albert Einstein
+99
+[252]
+ 
+7
+
+
+Eu
+Europium
+Europe
+63
+151.964(1)
+ 
+6
+
+
+F
+Fluorine
+Latin fluo
+9
+18.9984032(5)
+17
+2
+
+
+Fe
+Iron
+Latin ferrum
+26
+55.845(2)
+8
+4
+
+
+Fm
+Fermium
+Enrico Fermi
+100
+[257]
+ 
+7
+
+
+Fr
+Francium
+France
+87
+[223]
+1
+7
+
+
+Ga
+Gallium
+Latin Gallia
+31
+69.723(1)
+13
+4
+
+
+Gd
+Gadolinium
+gadolinite
+64
+157.25(3)
+ 
+6
+
+
+Ge
+Germanium
+Germany
+32
+72.64(1)
+14
+4
+
+
+H
+Hydrogen
+Greek hydror and gen
+1
+1.00794(7)
+1
+1
+
+
+He
+Helium
+Greek helios
+2
+4.002602(2)
+18
+1
+
+
+Hf
+Hafnium
+Latin Hafnia
+72
+178.49(2)
+4
+6
+
+
+Hg
+Mercury
+Latin hydrargyrum
+80
+200.59(2)
+12
+6
+
+
+Ho
+Holmium
+Latin Holmia
+67
+164.930 32(2)
+ 
+6
+
+
+Hs
+Hassium
+Hesse, Germany
+108
+[277]
+8
+7
+
+
+I
+Iodine
+Greek ioeides
+53
+126.904 47(3)
+17
+5
+
+
+In
+Indium
+indigo blue
+49
+114.818(3)
+13
+5
+
+
+Ir
+Iridium
+Greek iris
+77
+192.217(3)
+9
+6
+
+
+K
+Potassium (Kalium)
+Latin kalium
+19
+39.0983(1)
+1
+4
+
+
+Kr
+Krypton
+Greek kryptos
+36
+83.798(2)
+18
+4
+
+
+La
+Lanthanum
+Greek lanthanien
+57
+138.90547(7)
+ 
+6
+
+
+Li
+Lithium
+Greek lithos
+3
+6.941(2)
+1
+2
+
+
+Lr
+Lawrencium
+Ernest O. Lawrence
+103
+[262]
+3
+7
+
+
+Lu
+Lutetium
+Latin Lutetia
+71
+174.967(1)
+3
+6
+
+
+Md
+Mendelevium
+Dmitri Mendeleyev
+101
+[258]
+ 
+7
+
+
+Mg
+Magnesium
+Magnesia, Greece
+12
+24.3050(6)
+2
+3
+
+
+Mn
+Manganese
+Latin magnes
+25
+54.938045(5)
+7
+4
+
+
+Mo
+Molybdenum
+Greek molybdos
+42
+95.94(2)
+6
+5
+
+
+Mt
+Meitnerium
+Lise Meitner
+109
+[268]
+9
+7
+
+
+N
+Nitrogen
+Greek nitron and gen
+7
+14.0067(2)
+15
+2
+
+
+Na
+Sodium
+Latin natrium
+11
+22.98976928(2)
+1
+3
+
+
+Nb
+Niobium
+Niobe
+41
+92.906 38(2)
+5
+5
+
+
+Nd
+Neodymium
+Greek neos didymos
+60
+144.242(3)
+ 
+6
+
+
+Ne
+Neon
+Greek neos
+10
+20.1797(6)
+18
+2
+
+
+Ni
+Nickel
+German kupfernickel
+28
+58.6934(2)
+10
+4
+
+
+No
+Nobelium
+Alfred Nobel
+102
+[259]
+ 
+7
+
+
+Np
+Neptunium
+Neptune
+93
+[237]
+ 
+7
+
+
+O
+Oxygen
+Greek oxys and gen
+8
+15.9994(3)
+16
+2
+
+
+Os
+Osmium
+Greek osme
+76
+190.23(3)
+8
+6
+
+
+P
+Phosphorus
+Greek phosphoros
+15
+30.973762(2)
+15
+3
+
+
+Pa
+Protactinium
+Greek protos and actinium
+91
+231.03588(2)
+ 
+7
+
+
+Pb
+Lead
+Latin plumbum
+82
+207.2(1)
+14
+6
+
+
+Pd
+Palladium
+Pallas
+46
+106.42(1)
+10
+5
+
+
+Pm
+Promethium
+Prometheus
+61
+[145]
+ 
+6
+
+
+Po
+Polonium
+Poland
+84
+[210]
+16
+6
+
+
+Pr
+Praseodymium
+Greek prasios didymos
+59
+140.90765(2)
+ 
+6
+
+
+Pt
+Platinum
+Greek platina
+78
+195.084(9)
+10
+6
+
+
+Pu
+Plutonium
+Pluto
+94
+[244]
+ 
+7
+
+
+Ra
+Radium
+Greek radius
+88
+[226]
+2
+7
+
+
+Rb
+Rubidium
+Latin rubidus
+37
+85.4678(3)
+1
+5
+
+
+Re
+Rhenium
+Rhine Province
+75
+186.207(1)
+7
+6
+
+
+Rf
+Rutherfordium
+Ernest Rutherford
+104
+261
+4
+7
+
+
+Rg
+Roentgenium
+Wilhelm Conrad Röntgen
+111
+[272]
+11
+7
+
+
+Rh
+Rhodium
+Greek rhodon
+45
+102.905 50(2)
+9
+5
+
+
+Rn
+Radon
+radium and emanation
+86
+[220]
+18
+6
+
+
+Ru
+Ruthenium
+Latin Ruthenia
+44
+101.07(2)
+8
+5
+
+
+S
+Sulfur (Sulphur)
+Latin sulfur
+16
+32.065(5)
+16
+3
+
+
+Sb
+Antimony
+Latin stibium
+51
+121.760(1)
+15
+5
+
+
+Sc
+Scandium
+Scandinavia
+21
+44.955912(6)
+3
+4
+
+
+Se
+Selenium
+Greek selene
+34
+78.96(3)
+16
+4
+
+
+Sg
+Seaborgium
+Glenn T. Seaborg
+106
+[266]
+6
+7
+
+
+Si
+Silicon
+Latin silex
+14
+28.0855(3)
+14
+3
+
+
+Sm
+Samarium
+samarskite
+62
+150.36(2)
+ 
+6
+
+
+Sn
+Tin
+Latin stannum
+50
+118.710(7)
+14
+5
+
+
+Sr
+Strontium
+Latin Strontian
+38
+87.62(1)
+2
+5
+
+
+Ta
+Tantalum
+King Tantalus
+73
+180.94788(2)
+5
+6
+
+
+Tb
+Terbium
+Ytterby, Sweden
+65
+158.92535(2)
+ 
+6
+
+
+Tc
+Technetium
+Greek technetos
+43
+[98]
+7
+5
+
+
+Te
+Tellurium
+Greek tellus
+52
+127.60(3)
+16
+5
+
+
+Th
+Thorium
+Thor
+90
+232.03806(2)
+ 
+7
+
+
+Ti
+Titanium
+the Titans
+22
+47.867(1)
+4
+4
+
+
+Tl
+Thallium
+Greek thallos
+81
+204.3833(2)
+13
+6
+
+
+Tm
+Thulium
+Thule
+69
+168.93421(2)
+ 
+6
+
+
+U
+Uranium
+Uranus
+92
+238.02891(3)
+ 
+7
+
+
+Uub
+Ununbium
+Latin uni and bi
+112
+[285]
+12
+7
+
+
+Uuh
+Ununhexium
+Latin uni and Greek hex
+116
+[292]
+16
+7
+
+
+Uuo
+Ununoctium
+Latin uni and oct
+118
+[294]
+18
+7
+
+
+Uup
+Ununpentium
+Latin uni and Greek pent
+115
+[288]
+15
+7
+
+
+Uuq
+Ununquadium
+Latin uni and quadr
+114
+[289]
+14
+7
+
+
+Uut
+Ununtrium
+Latin uni and Greek tri
+113
+[284]
+13
+7
+
+
+V
+Vanadium
+Vanadis
+23
+50.9415(1)
+5
+4
+
+
+W
+Tungsten
+German wolfram
+74
+183.84(1)
+6
+6
+
+
+Xe
+Xenon
+Greek xenos
+54
+131.293(6)
+18
+5
+
+
+Y
+Yttrium
+Ytterby, Sweden
+39
+88.90585(2)
+3
+5
+
+
+Yb
+Ytterbium
+Ytterby, Sweden
+70
+173.04(3)
+ 
+6
+
+
+Zn
+Zinc
+German zin
+30
+65.409(4)
+12
+4
+
+
+Zr
+Zirconium
+zircon
+40
+91.224(2)
+4
+5
+
+
+
+পর্যায় সারণীর রাসায়নিক শ্রেণীসমূহ
+
+
+ধাতু
+Metalloid
+অধাতু
+অজানা
+রাসায়নিক
+বৈশিষ্ট
+
+
+ক্ষার
+ধাতু
+মৃৎ
+ক্ষার ধাতু
+Inner transition metal
+অবস্থান্তর
+ধাতু
+Post-transition
+metal
+অন্যান্য
+অধাতু
+হ্যালোজেন
+নিষ্ক্রিয়
+গ্যাস
+
+
+ল্যান্থানাইড
+অ্যাক্টিনাইড
+
+
+
+বর্তমানে অব্যবহৃত প্রতীকসমূহ
+
+
+Chemical Symbol
+Name
+Atomic Number
+Origin of Symbol
+Why Not Used
+
+
+A
+Argon
+18
+Current symbol is Ar.
+
+
+
+Ab
+Alabamine
+85
+Discredited claim to discovery of astatine.
+
+
+
+Am
+Alabamium
+85
+Discredited claim to discovery of astatine.
+
+
+
+An
+Athenium
+99
+Proposed name for einsteinium.
+
+
+
+Ao
+Ausonium
+93
+Discredited claim to discovery of neptunium.
+
+
+
+Az
+Azote
+7
+Former name for nitrogen.
+
+
+
+Bv
+Brevium
+91
+Former name for protactinium.
+
+
+
+Bz
+Berzelium
+59
+Suggested name for praseodymium.
+
+
+
+Cb
+Columbium
+41
+Former name of niobium.
+
+
+
+Cb
+Columbium
+95
+Suggested name for americium.
+
+
+
+Cp
+Cassiopeium
+71
+Former name for lutetium.
+
+
+
+Ct
+Centurium
+100
+Proposed name for fermium.
+
+
+
+Ct
+Celtium
+72
+Former name of hafnium.
+
+
+
+Da
+Danubium
+43
+Suggested name for technetium.
+
+
+
+Db
+Dubnium
+104
+Proposed name for rutherfordium. The symbol and name were used for element 105.
+
+
+
+Di
+Didymium
+-
+Rare earth metal that proved to be a mixture of the elements praseodymium and neodymium.
+
+
+
+Dp
+Decipium
+-
+Rare earth metal that proved to be a mixture of the elements samarium, neodymium and praseodymium.
+
+
+
+Eb
+Ekaboron
+21
+Name given by Mendeleev to an as of then undiscovered element. When discovered, scandium closely matched the prediction.
+
+
+
+El
+Ekaaluminium
+31
+Name given by Mendeleev to an as of then undiscovered element. When discovered, gallium closely matched the prediction.
+
+
+
+Em
+Emanation
+86
+Also called radium emanation, the name was originally given by Friedrich Ernst Dorn in 1900. In 1923, this element officially became radon (the name given at one time to 222Rn, an isotope identified in the decay chain of radium).
+
+
+
+Em
+Ekamangan
+43
+Name given by Mendeleev to an as of then undiscovered element. When discovered, technetium closely matched the prediction.
+
+
+
+Es
+Ekasilicon
+32
+Name given by Mendeleev to an as of then undiscovered element. When discovered, germanium closely matched the prediction.
+
+
+
+Es
+Esperium
+94
+Discredited claim to discovery of plutonium.
+
+
+
+Fa
+Francium
+87
+Current symbol is Fr.
+
+
+
+Fr
+Florentium
+61
+Discredited claim to discovery of promethium.
+
+
+
+Gl
+Glucinium
+4
+Former name of beryllium.
+
+
+
+Ha
+Hahnium
+105
+Proposed name for dubnium.
+
+
+
+Ha
+Hahnium
+108
+Proposed name for hassium.
+
+
+
+Il
+Illinium
+61
+Discredited claim to discovery of promethium.
+
+
+
+J
+Iodine
+53
+In some languages, the name for iodine begins with J instead of I.
+
+
+
+Jg
+Jargonium
+72
+Discredited claim to discovery of hafnium.
+
+
+
+Jo
+Joliotium
+105
+Proposed name for dubnium.
+
+
+
+Ku
+Kurchatovium
+104
+Proposed name for rutherfordium.
+
+
+
+Lw
+Lawrencium
+103
+Current symbol is Lr.
+
+
+
+M
+Muriaticum
+17
+Former name of chlorine.
+
+
+
+Ma
+Masurium
+43
+Disputed claim to discovery of technetium.
+
+
+
+Md
+Mendelevium
+97
+Proposed name for berkelium. The symbol and name were later used for element 101.
+
+
+
+Me
+Mendelevium
+68
+Suggested name for erbium.
+
+
+
+Ms
+Masrium
+49
+Discredited claim of discovery of indium.
+
+
+
+Mt
+Meitnium
+91
+Suggested name for protactinium.
+
+
+
+Mv
+Mendelevium
+101
+Current symbol is Md.
+
+
+
+Ng
+Norwegium
+72
+Discredited claim to discovery of hafnium.
+
+
+
+Ni
+Niton
+86
+Former name for radon.
+
+
+
+No
+Norium
+72
+Discredited claim to discovery of hafnium.
+
+
+
+Ns
+Nielsbohrium
+105
+Proposed name for dubnium.
+
+
+
+Ns
+Nielsbohrium
+107
+Proposed name for bohrium.
+
+
+
+Nt
+Niton
+86
+Suggested name for radon.
+
+
+
+Nw
+Newtonium
+67
+Suggested name for holmium.
+
+
+
+Ny
+Neoytterbium
+70
+Former name of ytterbium.
+
+
+
+Od
+Odinium
+62
+Suggested name for samarium.
+
+
+
+Pc
+Policium
+110
+Proposed name for darmstadtium.
+
+
+
+Pe
+Pelopium
+41
+Former name for niobium.
+
+
+
+Po
+Potassium
+19
+Current symbol is K.
+
+
+
+Pp
+Philippium
+-
+Rare earth metal that proved to be a mixture of the elements holmium and samarium.
+
+
+
+Rf
+Rutherfordium
+106
+Proposed name for seaborgium. The symbol and name were instead used for element 104.
+
+
+
+Sa
+Samarium
+62
+Current symbol is Sm.
+
+
+
+So
+Sodium
+11
+Current symbol is Na.
+
+
+
+Sp
+Spectrium
+70
+Suggested name for ytterbium.
+
+
+
+St
+Antimony
+51
+Current symbol is Sb.
+
+
+
+Tn
+Tungsten
+74
+Current symbol is W.
+
+
+
+Tu
+Thulium
+69
+Current symbol is Tm.
+
+
+
+Tu
+Tungsten
+74
+Current symbol is W.
+
+
+
+Ty
+Tyrium
+60
+Suggested name for neodymium.
+
+
+
+Unb
+Unnilbium
+102
+Temporary name given to nobelium until it was permanently named by IUPAC.
+
+
+
+Une
+Unnilennium
+109
+Temporary name given to meitnerium until it was permanently named by IUPAC.
+
+
+
+Unh
+Unnilhexium
+106
+Temporary name given to seaborgium until it was permanently named by IUPAC.
+
+
+
+Uno
+Unniloctium
+108
+Temporary name given to hassium until it was permanently named by IUPAC.
+
+
+
+Unp
+Unnilpentium
+105
+Temporary name given to dubnium until it was permanently named by IUPAC.
+
+
+
+Unq
+Unnilquadium
+104
+Temporary name given to rutherfordium until it was permanently named by IUPAC.
+
+
+
+Uns
+Unnilseptium
+107
+Temporary name given to bohrium until it was permanently named by IUPAC.
+
+
+
+Unt
+Unniltrium
+103
+Temporary name given to lawrencium until it was permanently named by IUPAC.
+
+
+
+Unu
+Unnilunium
+101
+Temporary name given to mendelevium until it was permanently named by IUPAC.
+
+
+
+Uun
+Ununnilium
+110
+Temporary name given to darmstadtium until it was permanently named by IUPAC.
+
+
+
+Uuu
+Unununium
+111
+Temporary name given to roentgenium until it was permanently named by IUPAC.
+
+
+
+Vi
+Virginium
+87
+Discredited claim to discovery of francium.
+
+
+
+Vm
+Virginium
+87
+Discredited claim to discovery of francium.
+
+
+
+Yt
+Yttrium
+39
+Current symbol is Y.
+
+
+
+চিত্রমূলক প্রতীকসমূহ
+
+
+Chemical Symbol
+Name
+Atomic Number
+Origin of Symbol
+Why Not Used
+
+
+
+Hydrogen
+1
+Daltonian symbol circa 1808.
+
+
+
+
+Sulfur
+16
+Alchemical symbol.
+
+
+
+
+Pallas
+16
+Alchemical symbol.
+
+
+
+
+Sulfur
+16
+Daltonian symbol circa 1808.
+
+
+
+⊛
+Magnesium
+21
+Alchemical symbol.
+
+
+
+♂
+Mars
+26
+Alchemical symbol.
+
+
+
+✶
+Stellae Fixae
+29
+Pre-1500s alchemical symbol.
+
+
+
+♀
+Venus
+29
+Alchemical symbol.
+
+
+
+
+Copper
+29
+Alchemical symbol.
+
+
+
+©
+Copper
+29
+Daltonian symbol circa 1808.
+
+
+
+
+Arsenic
+33
+Alchemical symbol.
+
+
+
+
+Luna
+48
+Alchemical symbol.
+
+
+
+
+Iupiter
+50
+Alchemical symbol.
+
+
+
+♁
+Antimony
+51
+Alchemical symbol.
+
+
+
+
+Antimony
+51
+Alchemical symbol.
+
+
+
+☾
+Platinum
+78
+Alchemical symbol.
+
+
+
+☉
+Platinum
+78
+Alchemical symbol.
+
+
+
+
+Uranus
+78
+Alchemical symbol.
+
+
+
+☼
+Sol
+79
+Alchemical symbol from the 1500s
+
+
+
+
+Sol
+79
+Alchemical symbol from 1700 through 1783.
+
+
+
+[১]
+Pisces
+80
+Pre-1500s alchemical symbol.
+
+
+
+
+Neptunus
+80
+Alchemical symbol from the 1600s.
+
+
+
+
+Mercurius
+80
+Alchemical symbol from 1700 through 1783.
+
+
+
+
+Saturnus
+82
+Alchemical symbol circa 1783.
+
+
+
+
+Taurus
+83
+Alchemical symbol.
+
+
+
+
+↑ ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড ঢ ণ ত থ দ ধ ন প ফ ব ভ ম য র ল শ ষ স হ ড় ঢ় য় ৎ The element does not have any stable nuclides, and a value in brackets, e.g. [209], indicates the mass number of the longest-lived isotope of the element. However, three elements, Thorium, Protactinium, and Uranium, have a characteristic terrestrial isotopic composition, and thus their atomic mass given.
+↑ ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড ঢ ণ ত থ দ ধ ন প ফ ব ভ ম য র ল শ ষ স হ ড় ঢ় য় ৎ কক কখ কগ The isotopic composition of this element varies in some geological specimens, and the variation may exceed the uncertainty stated in the table.
+↑ ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড ঢ ণ The isotopic composition varies in terrestrial material such that a more precise atomic weight can not be given.
+↑ ক খ গ ঘ ঙ চ ছ জ The isotopic composition of the element can vary in commercial materials, which can cause the atomic weight to deviate significantly from the given value.
+↑ The atomic weight of commercial Lithium can vary between 6.939 and 6.996—analysis of the specific material is necessary to find a more accurate value.
+↑ ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড ঢ ণ ত থ দ ধ ন প ফ ব ভ ম য র ল শ ষ স হ ড় ঢ় য় ৎ কক কখ কগ কঘ কঙ কচ কছ কজ কঝ কঞ কট কঠ কড কঢ কণ কত Name changed due to a standardization of, modernization of, or update to older previously used symbol.
+↑ ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড Name designated by discredited/disputed claimant.
+↑ ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড ঢ ণ ত থ দ ধ ন প ফ ব ভ ম Name proposed prior to discovery/creation of element or prior to official re-naming of a placeholder name.
+↑ ক খ গ Elemental substance found to be multi-atomic.
+↑ ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড ঢ ণ Temporary placeholder name.
+↑ Name currently used in a different language.
+
+নামাঙ্কিত সমাণুকসমূহ
+
+
+Chemical Symbol
+Name
+Atomic Number
+Origin of Symbol
+
+
+An
+Actinon
+86
+From actinium and emanation. Name given at one time to 219Rn, an isotope of radon identified in the decay chain of actinium.
+
+
+D
+Deuterium
+1
+From the Greek deuteros. Name given to 2H.
+
+
+Io
+Ionium
+90
+Name given at one time to 230Th, an isotope of thorium identified in the decay chain of uranium.
+
+
+Rn
+Radon
+86
+From radium and emanation. Name given at one time to 222Rn, an isotope of radon identified in the decay chain of radium. This named isotope later became the official name for element 86 in 1923.
+
+
+Tn
+Thoron
+86
+From thorium and emanation. Name given at one time to 220Rn, an isotope of radon identified in the decay chain of thorium.
+
+
+T
+Tritium
+1
+From the Greek tri. Name given to 3H.
+
+
+
+অন্যান্য প্রতীক যেগুলো দেখতে মৌলের প্রতীকের মত
+
+Ab: albite
+Ac: acetate (also used for the element actinium: see above)
+Bn: benzyl
+Bz: benzoyl; berzelium (an old suggested name for praseodymium).
+Et: ethyl
+Me: methyl; any metal atom
+Ph: phenyl
+Pr: propyl (also used for the element praseodymium: see above)
+R: some unspecified element or radical
+
+মন্তব্য
+তথ্যসূত্র
+
+. Retrieved July 15, 2005.
+Atomic Weights of the Elements 2001, . Retrieved June 30, 2005. Atomic weights of elements with atomic numbers from 1-109 taken from this source.
+ (2005).
+. Retrieved June 30, 2005. Atomic weights of elements with atomic numbers 110-116 taken from this source.
+Lapp, Ralph E. Matter. Life Science Library. New York: Time Incorporated. 1963.
+Leighton, Robert B. Principles of Modern Physics. New York: McGraw-Hill. 1959.
+
+বহিঃসংযোগ
+
+
+
+
+
+
+
+পর্যায় সারণী
+
+
+
+আদর্শ সারণী | উল্লম্ব সারণী | নাম সম্বলিত সারণী | নাম ও পারমানবিক ভরসহ সারণী | নাম ও পারমানবিক ভরসহ আরেকটি সংস্করণ | শুধু নাম ও পারমানবিক ভর সম্বলিত সারণী | ইনলাইন এফ-ব্লক | ২১৮ পর্যন্ত মৌল | ইলেকট্রন বিন্যাস | ধাতু ও অধাতু | ব্লক অনুসারে সারণী | বিকল্পসমূহ
+
+
+
+রাসায়নিক মৌলসমূহের তালিকা
+
+
+
+নাম | পারমানবিক প্রতীক | পারমানবিক সংখ্যা | স্ফুটনাংক | গলনাংক | ঘনত্ব | পারমানবিক ভর
+
+
+শ্রেণীসমূহ:   ১ -  ২ -  ৩ -  ৪ -  ৫ -  ৬ -  ৭ -  ৮ -  ৯ - ১০ - ১১ - ১২ - ১৩ - ১৪ - ১৫ - ১৬ - ১৭ - ১৮
+
+
+পর্যায়সমূহ:  ১  -  ২  -  ৩  -  ৪  -  ৫  -  ৬  -  ৭  -  ৮  -  ৯
+
+
+রাসায়নিক শ্রেণীসমূহ:   ক্ষার  -  মৃৎ ক্ষার  -  ল্যান্থানাইড  -  এক্টিনাইড  -  অবস্থান্তর ধাতু  -  দুর্বল ধাতু  -  অপধাতু  -  অধাতু  -  হ্যালোজেন  -  নিষ্ক্রিয় গ্যাস
+
+
+ব্লকসমূহ:  এস-ব্লক  -  পি-ব্লক  -  ডি-ব্লক  -  এফ-ব্লক  -  জি-ব্লক
+
+
+
+
+
+

@@ -1,0 +1,466 @@
+পর্যায় সারণীর ডি-ব্লক এর উপাদানগুলো সেইসকল গ্রুপের উপাদান নিয়ে গঠিত যাতে, সর্বোচ্চ শক্তির ইলেকট্রনগুলো d-অর্বিটালে অবস্থিত। ডি-ব্লক এলিমেণ্টগুলোকে ট্রানজিশন মেটাল বা অবস্থান্তর ধাতু বলা হয়ে থাকে।
+লুটেটিয়াম ও লরেন্সিয়াম মৌল d-ব্লকে অবস্থিত হলেও তাদের অবস্থান্তর ধাতু বলা হয় না।
+
+
+পর্যায় সারণীর ডি-ব্লক মৌলসমূহ
+
+
+শ্রেণী →
+৩
+৪
+৫
+৬
+৭
+৮
+৯
+১০
+১১
+১২
+
+
+↓ পর্যায়
+
+
+4
+21
+Sc
+22
+Ti
+23
+V
+24
+Cr
+25
+Mn
+26
+Fe
+27
+Co
+28
+Ni
+29
+Cu
+30
+Zn
+
+
+5
+39
+Y
+40
+Zr
+41
+Nb
+42
+Mo
+43
+Tc
+44
+Ru
+45
+Rh
+46
+Pd
+47
+Ag
+48
+Cd
+
+
+6
+71
+Lu
+72
+Hf
+73
+Ta
+74
+W
+75
+Re
+76
+Os
+77
+Ir
+78
+Pt
+79
+Au
+80
+Hg
+
+
+7
+103
+Lr
+104
+Rf
+105
+Db
+106
+Sg
+107
+Bh
+108
+Hs
+109
+Mt
+110
+Ds
+111
+Rg
+112
+Cn
+
+
+আরো দেখুন
+
+ইলেকট্রন বিন্যাস
+
+তথ্যসূত্র
+
+
+↑  (online draft of an updated version of the "Red Book" IR 3-6)
+
+
+
+
+
+
+
+
+দে
+
+
+
+পর্যায় সারণী
+
+
+
+পর্যায় সারণী ফর্ম
+
+
+
+
+আদর্শ
+
+
+
+১৮-স্তম্ভ
+18-column, large cells
+32-column, large cells
+
+
+
+
+
+বিকল্প
+
+
+
+বিকল্প
+Janet's left step table
+
+
+
+
+
+সম্প্রসারিত
+
+
+
+৭ম পর্যায় অতিক্রম প্রসারণ
+
+Fricke model
+
+large cells
+
+
+Pyykkö model
+
+
+
+
+
+
+
+
+
+
+উপাদানসমূহের সেট
+
+
+
+
+পর্যায় সারণীর গঠন দ্বারা
+
+
+
+
+শ্রেণীসমূহ
+
+
+
+১ (ক্ষার ধাতু)
+২ (মৃৎ ক্ষার ধাতু)
+৩
+৪
+৫
+৬
+৭
+৮
+৯
+১০
+১১
+১২
+১৩
+১৪
+১৫ (নাইট্রোজেন)
+১৬ (চালকোজেন)
+১৭ (হ্যালোজেন)
+১৮ (নিষ্ক্রিয় গ্যাস)
+
+
+
+
+
+পর্যায়
+
+
+
+১
+২
+৩
+৪
+৫
+৬
+৭
+৮+
+
+Aufbau
+Fricke
+Pyykkö
+
+
+
+
+
+
+
+ব্লক
+
+
+
+এস-ব্লক
+পি-ব্লক
+ডি-ব্লক
+এফ-ব্লক
+জি-ব্লক
+আউফবাউ নীতি
+
+
+
+
+
+
+
+
+ধাতবতা দ্বারা
+
+
+
+
+ধাতুসমূহ
+
+
+
+ক্ষার ধাতুসমূহ
+মৃৎ ক্ষার ধাতুসমূহ
+ল্যান্থানাইডসমূহ
+অ্যাক্টিনাইডসমূহ
+অবস্থান্তর ধাতুসমূহ
+Post-transition metalসমূহ
+
+
+
+
+
+অপধাতুসমূহ
+
+
+
+Lists of metalloids by source
+Dividing line
+
+
+
+
+
+অধাতুসমূহ
+
+
+
+Reactive nonmetals
+নিষ্ক্রিয় গ্যাসসমূহ
+
+
+
+
+
+
+
+
+অন্যান্য সেট
+
+
+
+Nutritional elements
+Platinum-group metals (PGM)
+Rare-earth elements
+Refractory metals
+Precious metals
+Coinage metals
+Noble metal
+Heavy metals
+Native metals
+ইউরেনামোত্তর মৌলসমূহ
+Transactinide elements
+Major actinides
+Minor actinides
+
+
+
+
+
+
+
+
+উপাদানসমূহ
+
+
+
+
+তালিকাসমূহ
+
+
+
+By: Abundance (in humans)
+Atomic properties
+Nuclear stability
+Production
+Symbol
+
+
+
+
+
+বৈশিষ্ট্য
+
+
+
+Atomic weight
+Crystal structure
+Electron affinity
+Electron configuration
+তড়িৎ ঋণাত্মকতা
+
+Allen
+Pauling
+
+
+Goldschmidt classification
+Maximum valence
+
+
+
+
+
+তথ্য পাতাসমূহ
+
+
+
+Abundance
+Atomic radius
+Boiling point
+Critical point
+Density
+Elasticity
+Electrical resistivity
+Electron affinity
+ইলেকট্রন বিন্যাস
+Electronegativity
+Hardness
+Heat capacity
+Heat of fusion
+Heat of vaporization
+Ionization energy
+Melting point
+Oxidation state
+Speed of sound
+Thermal conductivity
+Thermal expansion coefficient
+Vapor pressure
+
+
+
+
+
+
+
+
+ইতিহাস
+
+
+
+Element discoveries
+
+Mendeleev's predictions
+
+
+Naming
+
+Etymology
+controversies
+places
+scientists
+in East Asia
+
+
+
+
+
+
+
+আরও দেখুন
+
+
+
+আইইউপিএসি
+
+nomenclature
+systematic element name
+
+
+Trivial name
+দিমিত্রি মেন্ডেলিফ
+
+
+
+
+
+
+
+
+ বই
+ বিষয়শ্রেণী
+ রসায়ন প্রবেশদ্বার
+
+
+
+
+
+
+
+
+
+

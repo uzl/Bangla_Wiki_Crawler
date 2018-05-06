@@ -1,0 +1,536 @@
+ল্যান্থানাইড বা ল্যান্থানয়েড (IUPAC nomenclature) হল ১৫টি ধাতব মৌলিক পদার্থের সমন্বয়ে গঠিত পর্যায় সারণীর একটি বিশেষ শ্রেণী। ৫৭ থেকে ৭১ পারমাণবিক সংখ্যা বিশিষ্ট মৌলগুলো এই শ্রেণীর অন্তর্ভুক্ত। এই শ্রেণীর প্রথম মৌলটি হল ল্যান্থানাম এবং শেষ মৌলটি হল লুটেসিয়াম। 
+এই ১৫টি ল্যান্থানাইড শ্রেণীর মধ্যে স্ক্যানডিয়াম এবং ইট্রিয়াম মৌলগুলো বিরল মৃত্তিকা ধাতু নামে পরিচিত।
+ল্যান্থানাইড শ্রেণীর মৌলগুলো সম্পর্কে আলোচনার জন্য অনেক সময় Ln চিহ্নটি ব্যবহার করা হয়। ল্যান্থানাইড শ্রেণীতে একটি বাদে অন্য ১৪টি মৌল ফ-ব্লকের অন্তর্গত। লুটেসিয়ামের 4F শক্তিস্তটি ইলেকট্রনে পূর্ণ হওয়ায় এটিকে ডি-ব্লক মৌল বলা হয়ে থাকে। তবে এর রাসায়নিক বৈশিষ্টগুলো ল্যান্থানাইড শ্রেণীর অপর মৌলগুলোর সাথে অধিক সামঞ্জস্যপূর্ণ হওয়ার লুটেসিয়ামকে এই শ্রেণীতে অন্তর্ভুক্ত করা হয়েছে।
+
+
+Chemical element
+La
+Ce
+Pr
+Nd
+Pm
+Sm
+Eu
+Gd
+Tb
+Dy
+Ho
+Er
+Tm
+Yb
+Lu
+
+
+Atomic number
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+
+
+Image
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Density (g/cm3)
+6.162
+6.770
+6.77
+7.01
+7.26
+7.52
+5.244
+7.90
+8.23
+8.540
+8.79
+9.066
+9.32
+6.90
+9.841
+
+
+Melting point (°C)
+920
+795
+935
+1024
+1042
+1072
+826
+1312
+1356
+1407
+1461
+1529
+1545
+824
+1652
+
+
+Atomic electron configuration*
+5d1
+4f15d1
+4f3
+4f4
+4f5
+4f6
+4f7
+4f75d1
+4f9
+4f10
+4f11
+4f12
+4f13
+4f14
+4f145d1
+
+
+Ln3+ electron configuration*
+4f0
+4f1
+4f2
+4f3
+4f4
+4f5
+4f6
+4f7
+4f8
+4f9
+4f10
+4f11
+4f12
+4f13
+
+4f14
+
+
+
+Ln3+ radius (pm)
+103
+102
+99
+98.3
+97
+95.8
+94.7
+93.8
+92.3
+91.2
+90.1
+89
+88
+86.8
+86.1
+
+
+* Between initial [Xe] and final 6s2 electronic shells
+
+
+
+পরিচ্ছেদসমূহ
+
+
+১ রসায়ন এবং যৌগসমূহ
+২ ভৌত বৈশিষ্ট
+৩ ব্যবহারিক দিকসমূহ
+৪ আরও দেখুন
+৫ তথ্যসূত্র
+৬ বহিঃসংযোগ
+
+
+
+রসায়ন এবং যৌগসমূহ
+ভৌত বৈশিষ্ট
+ব্যবহারিক দিকসমূহ
+আরও দেখুন
+
+অ্যাক্টিনাইড
+তৃতীয় শ্রেণীর মৌল
+Lanthanide contraction
+Rare earth element
+
+তথ্যসূত্র
+
+
+↑ The current IUPAC recommendation is that the name lanthanoid be used rather than lanthanide, as the suffix "-ide" is preferred for negative ions whereas the suffix "-oid" indicates similarity to one of the members of the containing family of elements. However, lanthanide is still favored in most (~90%) scientific articles and is currently adopted on Wikipedia. In the older literature, the name "lanthanon" was often used.
+↑ Gray, Theodore (২০০৯)। The Elements: A Visual Exploration of Every Known Atom in the Universe। New York: Black Dog & Leventhal Publishers। পৃষ্ঠা 240। আইএসবিএন 978-1-57912-814-2। উদ্ধৃতি টেমপ্লেট ইংরেজি প্যারামিটার ব্যবহার করেছে (link)
+↑ , Encyclopædia Britannica on-line
+↑ Holden, Norman E. and Coplen, Tyler (জানুয়ারি–ফেব্রুয়ারি ২০০৪)। । Chemistry International। IUPAC। 26 (1): 8। সংগ্রহের তারিখ মার্চ ২৩, ২০১০। উদ্ধৃতি টেমপ্লেট ইংরেজি প্যারামিটার ব্যবহার করেছে (link) উদ্ধৃতি শৈলী রক্ষণাবেক্ষণ: একাধিক নাম: লেখকগণের তালিকা (link)
+↑ Walter Koechner (২০০৬)। । Springer। পৃষ্ঠা 47–। আইএসবিএন 978-0-387-29094-2। সংগ্রহের তারিখ ১৫ জানুয়ারি ২০১২। উদ্ধৃতি টেমপ্লেট ইংরেজি প্যারামিটার ব্যবহার করেছে (link)
+↑ . Chemistryexplained.com. Retrieved on 2012-01-15.
+↑ উদ্ধৃতি ত্রুটি: অবৈধ <ref> ট্যাগ; Greenwood নামের সূত্রের জন্য কোন লেখা প্রদান করা হয়নি
+
+
+বহিঃসংযোগ
+
+, used in the computational chemistry of lanthanide complexes
+
+
+
+
+
+
+
+
+
+দে
+
+
+
+পর্যায় সারণী
+
+
+
+পর্যায় সারণী ফর্ম
+
+
+
+
+আদর্শ
+
+
+
+১৮-স্তম্ভ
+18-column, large cells
+32-column, large cells
+
+
+
+
+
+বিকল্প
+
+
+
+বিকল্প
+Janet's left step table
+
+
+
+
+
+সম্প্রসারিত
+
+
+
+৭ম পর্যায় অতিক্রম প্রসারণ
+
+Fricke model
+
+large cells
+
+
+Pyykkö model
+
+
+
+
+
+
+
+
+
+
+উপাদানসমূহের সেট
+
+
+
+
+পর্যায় সারণীর গঠন দ্বারা
+
+
+
+
+শ্রেণীসমূহ
+
+
+
+১ (ক্ষার ধাতু)
+২ (মৃৎ ক্ষার ধাতু)
+৩
+৪
+৫
+৬
+৭
+৮
+৯
+১০
+১১
+১২
+১৩
+১৪
+১৫ (নাইট্রোজেন)
+১৬ (চালকোজেন)
+১৭ (হ্যালোজেন)
+১৮ (নিষ্ক্রিয় গ্যাস)
+
+
+
+
+
+পর্যায়
+
+
+
+১
+২
+৩
+৪
+৫
+৬
+৭
+৮+
+
+Aufbau
+Fricke
+Pyykkö
+
+
+
+
+
+
+
+ব্লক
+
+
+
+এস-ব্লক
+পি-ব্লক
+ডি-ব্লক
+এফ-ব্লক
+জি-ব্লক
+আউফবাউ নীতি
+
+
+
+
+
+
+
+
+ধাতবতা দ্বারা
+
+
+
+
+ধাতুসমূহ
+
+
+
+ক্ষার ধাতুসমূহ
+মৃৎ ক্ষার ধাতুসমূহ
+ল্যান্থানাইডসমূহ
+অ্যাক্টিনাইডসমূহ
+অবস্থান্তর ধাতুসমূহ
+Post-transition metalসমূহ
+
+
+
+
+
+অপধাতুসমূহ
+
+
+
+Lists of metalloids by source
+Dividing line
+
+
+
+
+
+অধাতুসমূহ
+
+
+
+Reactive nonmetals
+নিষ্ক্রিয় গ্যাসসমূহ
+
+
+
+
+
+
+
+
+অন্যান্য সেট
+
+
+
+Nutritional elements
+Platinum-group metals (PGM)
+Rare-earth elements
+Refractory metals
+Precious metals
+Coinage metals
+Noble metal
+Heavy metals
+Native metals
+ইউরেনামোত্তর মৌলসমূহ
+Transactinide elements
+Major actinides
+Minor actinides
+
+
+
+
+
+
+
+
+উপাদানসমূহ
+
+
+
+
+তালিকাসমূহ
+
+
+
+By: Abundance (in humans)
+Atomic properties
+Nuclear stability
+Production
+Symbol
+
+
+
+
+
+বৈশিষ্ট্য
+
+
+
+Atomic weight
+Crystal structure
+Electron affinity
+Electron configuration
+তড়িৎ ঋণাত্মকতা
+
+Allen
+Pauling
+
+
+Goldschmidt classification
+Maximum valence
+
+
+
+
+
+তথ্য পাতাসমূহ
+
+
+
+Abundance
+Atomic radius
+Boiling point
+Critical point
+Density
+Elasticity
+Electrical resistivity
+Electron affinity
+ইলেকট্রন বিন্যাস
+Electronegativity
+Hardness
+Heat capacity
+Heat of fusion
+Heat of vaporization
+Ionization energy
+Melting point
+Oxidation state
+Speed of sound
+Thermal conductivity
+Thermal expansion coefficient
+Vapor pressure
+
+
+
+
+
+
+
+
+ইতিহাস
+
+
+
+Element discoveries
+
+Mendeleev's predictions
+
+
+Naming
+
+Etymology
+controversies
+places
+scientists
+in East Asia
+
+
+
+
+
+
+
+আরও দেখুন
+
+
+
+আইইউপিএসি
+
+nomenclature
+systematic element name
+
+
+Trivial name
+দিমিত্রি মেন্ডেলিফ
+
+
+
+
+
+
+
+
+ বই
+ বিষয়শ্রেণী
+ রসায়ন প্রবেশদ্বার
+
+
+
+
+
+
+
+
+
+

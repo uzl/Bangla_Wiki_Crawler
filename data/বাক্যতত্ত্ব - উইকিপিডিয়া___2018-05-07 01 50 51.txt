@@ -1,0 +1,288 @@
+
+
+
+
+
+
+
+দে
+
+
+
+ভাষাবিজ্ঞান
+
+
+
+
+ভাষা  · পৃথিবীর ভাষাসমূহ  · ভাষা পরিবারসমূহ  · লিখন পদ্ধতি  · পৃথিবীর লিখন পদ্ধতিসমূহ  · ইশারা ভাষা
+
+
+
+
+
+
+
+
+ভাষিক তথ্য
+আহরণ
+
+ক্ষেত্রানুসন্ধানমূলক ভাষাবিজ্ঞান  · ভাষাংশ ভাষাবিজ্ঞান
+
+
+
+তত্ত্বীয়
+ভাষাবিজ্ঞান
+
+বর্ণনামূলক/এককালিক ভাষাবিজ্ঞান  · ধ্বনিতত্ত্ব  · ধ্বনিবিজ্ঞান  · রূপমূলতত্ত্ব  · রূপধ্বনিতত্ত্ব  · বাক্যতত্ত্ব  · সঞ্জননী ব্যাকরণ  · অর্থবিজ্ঞান  · ভাষাতাত্ত্বিক শ্রেণীকরণবিদ্যা
+
+
+
+ভাষা
+ও সমাজ
+
+প্রয়োগতত্ত্ব  · অধিবাচন বিশ্লেষণ  · ক্রিয়াবাদী ভাষাবিজ্ঞান  · সমাজভাষাবিজ্ঞান  · নৃতাত্ত্বিক ভাষাবিজ্ঞান  · জাতিভাষাবিজ্ঞান
+
+
+
+ঐতিহাসিক
+ভাষাবিজ্ঞান
+
+ভাষা পরিবারসমূহ  · তুলনামূলক ভাষাবিজ্ঞান  · ব্যুৎপত্তি  · ব্যক্তিগত ভাষার বিবর্তনতত্ত্ব  · স্থান-নাম তত্ত্ব
+
+
+
+ফলিত
+ভাষাবিজ্ঞান
+
+উপভাষাতত্ত্ব  · ভৌগলিক ভাষাবিজ্ঞান  · মনোভাষাবিজ্ঞান  · অভিধানবিজ্ঞান  · গাণিতিক বা গণনামূলক ভাষাবিজ্ঞান  · মাতৃভাষা অর্জন  · দ্বিতীয় ভাষা অর্জন  · বহুভাষিকতা  · আদালতি ভাষাবিজ্ঞান  · চিকিৎসা ভাষাবিজ্ঞান  · ভাষানুবাদ  · ভাষা পরিকল্পনা  · শিক্ষামূলক ভাষাবিজ্ঞান  · স্নায়ুভাষাবিজ্ঞান
+
+
+
+ইতিহাস
+
+ভাষার উৎস  · ভাষাবিজ্ঞানের ইতিহাস
+
+
+
+ভাষাবিজ্ঞান
+ও সাহিত্য
+
+সাংস্কৃতিক ভাষাতত্ত্ব  · শৈলীবিজ্ঞান  · ছন্দোবিজ্ঞান  · অলংকারশাস্ত্র
+
+
+
+অন্যান্য
+
+ভাষাবিজ্ঞানীদের তালিকা  · অসমাধানকৃত সমস্যাসমূহ  · পরিভাষা  · সংকেতবিজ্ঞান
+
+
+
+
+
+বাক্যতত্ত্ব (ইংরেজি: Syntax) নামক ভাষাবিজ্ঞানের শাখায় বাক্যের গঠন নিয়ে আলোচনা করা হয়। আরও সঠিকভাবে বলতে গেলে একাধিক শব্দ কী নিয়মে যুক্ত হয়ে বৃহত্তর এককসমূহ (যাদের মধ্যে বাক্য প্রধানতম একক) গঠন করে এবং এই বৃহত্তর এককগুলোর বৈশিষ্ট্য কী, সেটাই বাক্যতত্ত্বের আলোচ্য বিষয়।
+বৃহত্তর খণ্ডবাক্য-সদৃশ (clause-like) এককে প্রদর্শিত আচরণের ওপর ভিত্তি করে শব্দসমূহের শ্রেণীবিভাগ, বাক্যের গঠনের ওপর শব্দের আভিধানিক (lexical) অর্থের প্রভাব, বিভিন্ন প্রকারের বাক্যের মধ্যকার বিধিবদ্ধ (formal) সম্পর্ক আবিষ্কার, ইত্যাদি বাক্যতাত্ত্বিকদের (syntactician) গবেষণার বিষয়।
+আধুনিক বাক্যতত্ত্বে বিমূর্তায়ন (abstraction) গুরুত্বপূর্ণ একটি ধারণা। ধারণা করা হয় প্রতিটি বাক্যের বহিঃস্থ ধ্বনিতাত্ত্বিক (phonetic) রূপ বা তলের (surface structure) বিপরীতে একটি গভীর সাংগঠনিক তল (deep structure) বিদ্যমান, এবং এই তলদ্বয় এক ধরনের "রূপান্তর" (transformation) প্রক্রিয়ার মাধ্যমে সংযুক্ত।
+বিশুদ্ধ তাত্ত্বিক দৃষ্টিকোণ থেকে বাক্যতত্ত্বের কাজ মানুষের ভাষাবোধের একটি বিধিনির্ভর (formal) মডেল তৈরিতে সাহায্য করা। আবার শ্রেণীকরণবিদ্যার (typology) দৃষ্টিকোণ থেকে বাক্যতত্ত্বের লক্ষ্য বিভিন্ন ভাষার উপাত্ত সংগ্রহ করে তাদের মধ্যে সাদৃশ্য-বৈসাদৃশ্য খুঁজে বের করে কিছু বর্ণনামূলক (descriptive) সাধারণ বৈশিষ্ট্য সংগ্রহ করা।
+বাক্যতত্ত্বের বিধিবদ্ধ মডেল হিসেবে নোম চম্‌স্কি-র প্রস্তাবিত 'Principles and Parameters' মডেলটি বর্তমান বাক্যতাত্ত্বিকদের মধ্যে সবচেয়ে জনপ্রিয়।
+
+
+
+পরিচ্ছেদসমূহ
+
+
+১ উৎপত্তি
+২ উদ্দেশ্য, ক্রিয়া এবং বিধেয়
+৩ প্রাথমিক ইতিহাস
+৪ আধুনিক তত্ত্ব
+
+৪.১ উৎপাদক ব্যাকরণ
+৪.২ শ্রেণীগত ব্যাকরণ
+৪.৩ নির্ভরতা ব্যাকরণ
+৪.৪ স্টচাস্টিক / সম্ভাব্য ব্যাকরণ / নেটওয়ার্ক তত্ত্ব
+৪.৫ কার্যকারিতার ব্যাকরণ
+৪.৬ জ্ঞানীয় ব্যাকরণ
+৪.৭ তথ্যসূত্র
+৪.৮ উল্লেখযোগ্য গ্রন্থাবলি
+
+৪.৮.১ পটভূমিক আলোচনা
+৪.৮.২ সাধারণ পাঠ্যপুস্তক
+৪.৮.৩ বিভিন্ন বাক্যতত্ত্বের পর্যালোচনা
+৪.৮.৪ চম্‌স্কীয় (রূপান্তরমূলক) সঞ্জননী বাক্যতত্ত্ব
+
+৪.৮.৪.১ শুরু
+৪.৮.৪.২ মান তত্ত্ব (Standard Theory or ST)
+৪.৮.৪.৩ সম্প্রসারিত মান তত্ত্ব (Extended Standard Theory or EST)
+৪.৮.৪.৪ শাসন ও বন্ধন (Government and Binding) তত্ত্ব
+৪.৮.৪.৫ নীতি ও পরামিতি (Principles and Parameters) তত্ত্ব এবং ন্যূনতমবাদী প্রকল্প (the Minimalist Program)
+
+
+৪.৮.৫ আভিধানিক কার্যমূলক ব্যাকরণ (Lexical Functional Grammar)
+৪.৮.৬ সাধারণীকৃত পদ সংগঠন ব্যাকরণ (Generalized Phrase Structure Grammar) এবং মস্তক-চালিত পদ সংগঠন ব্যাকরণ (Head Driven Phrase Structure Grammar)
+
+
+
+
+
+
+
+উৎপত্তি
+বাক্যতত্ত্ব শব্দটি প্রাচীন গ্রিক σύνταξις থেকে এসেছে যার অর্থ হল "সমন্বয়", যার মধ্যে রয়েছে σύν syn, "একসাথে," এবং τάξις táxis, "একটি ক্রম"।
+উদ্দেশ্য, ক্রিয়া এবং বিধেয়
+একটি ভাষায় বাক্য গঠনের মৌলিক বৈশিষ্ট্য ক্রম হল উদ্দেশ্য (এস), ক্রিয়া (ভি), এবং বিধেয় (ও) যা সাধারণত বাক্যের মধ্যে প্রদর্শিত হয়। প্রায় ৮৫% ভাষায় সাধারণত উদ্দেশ্য প্রথমে থাকে, ক্রমানুসারে এসভিও বা ক্রম এসওভি। অন্যান্য সম্ভাব্য অনুক্রমগুলি ভিএসও, ভিওএস, ওভিএস এবং ওএসভি তাদের মধ্যে শেষ তিনটি বিরল।
+প্রাথমিক ইতিহাস
+আধুনিক বাক্যতত্ত্ব আসার আগেই প্রাচীন ভারতে লিখিত ছিল পাণিনির অষ্টাধ্যায়ী (সি. চতুর্থ খ্রিস্টপূর্বাব্দ) যাকে আধুনিকোত্তর কাজের একটি উদাহরণ হিসাবে উল্লেখ করা হয় যা আধুনিক বাক্যতত্ত্বের জন্য অত্যন্ত গুরুত্বপূর্ণ। পশ্চিমে চিন্তার স্কুলটি "প্রথাগত ব্যাকরণ" নামে পরিচিত হয়ে উঠেছিল যা মূলত ডায়নোসিয়াস থ্র্যাক্সের কাজের মাধ্যমে শুরু হয়েছিল।
+শতাব্দী জুরে বাক্যতত্ত্বের উপর যে কাজগুলো হয়েছে তা গ্রামেইর জেনারেল(grammaire générale) নামে পরিচিত একটি কাঠামো দ্বারা প্রভাবিত হয়ে আসতেছে, ১৬৬০ সালে একই শিরোনামের একটি বইয়ে অ্যান্টনি আর্নল্ডের মাধ্যমে প্রথম প্রকাশিত হয়েছিল। এই সিস্টেমটি তার মৌলিক ভিত্তি হিসাবে গ্রহণ করেছিল যেখানে ভাষা হল চিন্তা প্রক্রিয়াগুলির একটি প্রত্যক্ষ প্রতীক এবং সর্বাধিক স্বাভাবিক উপায়ে চিন্তাকে প্রকাশ করার একটি একক ।
+যাইহোক, ঐতিহাসিক-তুলনামূলক ভাষাতত্ত্বের উন্নয়নের সাথে সাথে উনিশ শতকে ভাষাবিদগণ মানব ভাষাগুলির নিবিড় বৈচিত্র্য উপলব্ধি করতে এবং ভাষা ও যুক্তিবিজ্ঞানের মধ্যে মৌলিক ধারণাগুলির সম্পর্ক নিয় প্রশ্ন করতে শুরু করেছিলেন। এটা স্পষ্ট হয়ে ওঠেছিল যে চিন্তাকে প্রকাশ করার সবচেয়ে স্বাভাবিক কোন উপায় ছিল না, এবং সেইজন্য লজিককে ভাষার কাঠামো অধ্যয়ন করার জন্য ভিত্তি হিসাবে নির্ভর করা যেতে পারে না।
+পোর্ট-রয়্যাল ব্যাকরণ লজিকের উপর ভিত্তি করে বাক্যতত্ত্বের অধ্যয়ন পরিচালনা করেছে। (প্রকৃতপক্ষে, পোর্ট-রয়েল লজিকের বৃহৎ অংশগুলি গ্রামেইর জেনারেল থেকে কপি করা বা রূপান্তরিত হয়েছিল। বাক্যতত্ত্বের বিভাগগুলিকে লজিক্যাল শনাক্তকরণের সাথে চিহ্নিত করা হয়েছিল এবং "সাবজেক্ট-কোপালা-প্রেডিকেট" অনুসারে সকল বাক্যকে বিশ্লেষণ করা হয়েছিল। প্রাথমিকভাবে, এই মতামতটি তুলনামূলক ভাষাবিদ যেমন ফ্রাঞ্জ বোপ্পের দ্বারাও গৃহীত হয়েছিল।
+তাত্ত্বিক ভাষাতত্ত্বের মধ্যে বাক্যতত্ত্বের কেন্দ্রীয় ভূমিকা কেবল স্পষ্ট হয়ে ওঠেছিল বিংশ শতাব্দীতে, যুক্তিসঙ্গতভাবে যাকে "বাক্যতত্ত্বের শতাব্দী" বলা যেতে পারে যা ভাষাতত্ত্বের সাথে সংশ্লিষ্ট। (গত দুই শতাব্দীতে বাক্যতত্ত্বের ইতিহাসের বিস্তারিত ও সমালোচনামূলক জরিপের জন্য, জর্জজি গ্রাফি (২০০১) এর স্মরণীয় কাজটি দেখুন।
+আধুনিক তত্ত্ব
+বাক্যতত্ত্বের অনেকগুলো তাত্ত্বিক পন্থা আছে। ডেরেক বিকার্টনের রচনায় চিন্তার একটি গঠন প্রতিষ্ঠিত হয়েছিল যেখানে বাক্যতত্ত্বকে জীববিজ্ঞানের একটি শাখা হিসেবে দেখান হয়েছে, যেহেতু এটি মানুষের মনের মত ভাষাগত জ্ঞানের অধ্যয়নের মত বাক্যতত্ত্ব ধারণ করে। অন্যান্য ভাষাবিদগণ (যেমন, গেরাল্ড গাজডার) আরও প্ল্যাটোনিস্টিক মতামত গ্রহণ করেন, যেহেতু তারা বাক্যতত্ত্বকে একটি বিমূর্ত আনুষ্ঠানিক পদ্ধতির অধ্যয়ন হিসেবে বিবেচনা করে। তবুও অন্যদের মধ্যে (উদাঃ, জোসেফ গ্রীনবার্গ) সমস্ত ভাষা জুড়ে বিস্তৃত সাধারণীকরণের জন্য বাক্যতত্ত্বকে একটি করণীয় যন্ত্র হিসেবে বিবেচনা করেন।
+উৎপাদক ব্যাকরণ
+উৎপাদক ব্যাকরণের অনুমানুযায়ী ভাষা হল মানুষের মন দিয়ে তৈরি একটি কাঠামো। উৎপাদক ব্যাকরণের লক্ষ্য হল অভ্যন্তরীণ ভাষার একটি সম্পূর্ণ মডেল তৈরি করা (আমি-ভাষা হিসাবে পরিচিত)। এই মডেলটি সমস্ত মানব ভাষা বর্ণনা করতে পারবে এবং যেকোনো উচ্চারণকে (যা কিনা উচ্চারণ ভাষাটির স্থানীয় ভাষাকে সঠিক বলে মনে হবে, ভবিষ্যদ্বাণী করা) এর ব্যাকরণগততার পূর্বাভাস দিতে ব্যবহার করা যেতে পারে। ভাষার এই পদ্ধতিটি নোয়াম চমস্কি দ্বারা প্রবর্তিত হয়েছে। বেশিরভাগ জেনারেটর থিওরি (যদিও সবগুলিই নয়) অনুমান করা যায় যে বাক্যতত্ত্ব বাক্যের গঠনগুলির উপর ভিত্তি করে তৈরি হয়। উৎপাদক ব্যাকরণ তত্ত্বগুলির মধ্যে অন্যতম যা প্রাথমিকভাবে একটি বাক্যের গঠনের উপর জোর দেয় তবে কথোপকথনমূলক ফাংশনের উপর তেমন গুরুত্ব দেয়না।
+ভাষাতত্ত্বের বহু উৎপাদক তত্ত্বগুলির মধ্যে চমস্কিয়ান তত্ত্বগুলি হল:
+
+রূপান্তরমূলক ব্যাকরণ: (১৯৫৭ সালে চমস্কি দ্বারা উত্পাদিত বাক্যতত্ত্বের মূল তত্ত্ব)
+সরকার ও বাইন্ডিং তত্ত্ব: (১৯৭০ ও ১৯৮০-এর দশকে রূপান্তরমূলক ব্যাকরণের রিবাইসড তত্ত্বটি মূলত চমস্কি দ্বারা নির্মিত)
+অল্পস্বল্প প্রোগ্রাম (১৯৯৫সালে চমস্কি দ্বারা প্রকাশিত সরকার ও বাইন্ডিং তত্ত্বের ফ্রেমওয়ার্কের পুনর্বিন্যাস)
+
+উৎপত্তিমূলক দৃষ্টান্তে তাদের উৎপত্তি খুঁজে পাওয়া যায় এমন অন্যান্য তত্ত্বগুলি হল:
+
+আর্ক জোড়া ব্যাকরণ
+সাধারণ শব্দগুচ্ছ গঠনগত ব্যাকরণ (এখন বেশিরভাগ ব্যবহার অযোগ্য হয়ে গেছে)
+উৎপাদক শব্দার্থবিদ্যা (এখন বেশিরভাগ ব্যবহার অযোগ্য হয়ে গেছে)
+মস্তিষ্ক-চালিত ফ্রেজ গঠনগত ব্যাকরণ
+লেক্সিকাল ব্যবহারগত ব্যাকরণ
+ক্ষুদ্র বাক্যতত্ত্ব
+রিলেশনাল ব্যাকরণ (এখন বেশিরভাগ ব্যবহার অযোগ্য হয়ে গেছে )
+
+শ্রেণীগত ব্যাকরণ
+শ্রেণীগত ব্যাকরণ হল একটি পদ্ধতি যা ব্যাকরণের বাক্যতত্ত্বগত কাঠামোকে নির্দেশ করে এর নিয়মকে নয়, তবে বাক্যতত্ত্বগত শ্রেণির বৈশিষ্ট্যগুলির সাথে নিজেকে প্রকাশ করে। উদাহরণস্বরূপ, বাক্যগুলিকে এমন একটি নিয়ম দ্বারা গঠন করা হয় যেখানে একটি বিশেষ্য ফ্রেজ(এনপি) এবং একটি ক্রিয়া ফ্রেজের (ভিপি) মধ্যে সমন্বয় সাধন করা হয় (উদাহরণস্বরূপ, ফ্রেজ গঠন নীতির এস → এনপি ভিপি), ক্যাটাগরিকাল ব্যাকরণের মধ্যে এই নীতিগুলির সংমিশ্রণ করা হয় যেখানে নীতিগুলি এম্বেড করা হয় শব্দ নিজেই সেখানে একটি বিভাগ। সুতরাং একটি অকর্মক ক্রিয়ার একটি জটিল সূত্র একটি কার্যকরী শব্দ হিসাবে কাজ করে যা একটি এনপি হিসাবে একটি ইনপুট হিসাবে কাজ করে এবং একটি আউটপুট হিসাবে একটি বাক্যে স্তর কাঠামো উত্পাদনে প্রতিনিধিত্ব করে। এই জটিল শ্রেণিটি ভি. এনপি\ এস এর পরিবর্তে (এনপি \ এস) হিসাবে উল্লেখ করা হয় "একটি বিভাগ যা বাম দিকে অনুসন্ধান করে (দ্বারা নির্দেশিত হয়) একটি এনপি (বামের উপাদান) এবং একটি বাক্য (আউটপুট) ডানদিকে উপাদান)। "অকর্মক ক্রিয়ার শ্রেণিটিকে একটি উপাদান হিসাবে সংজ্ঞায়িত করা হয় যার একটি বাক্য গঠন করতে দুটি এনপি (তার বিষয় এবং এর সরাসরি বস্তু) প্রয়োজন হয়। এটি (এনপি / (এনপি \ এস)) হিসাবে উল্লিখিত হয় যার মানে "একটি বিভাগ যা একটি এনপি (বস্তুর) জন্য ডান (অনুসন্ধান দ্বারা) / অনুসন্ধান করে এবং একটি ফাংশন (ভিপি সমতুল্য) তৈরি করে (এনপি \ এস), যা পাল্টে একটি ফাংশন প্রতিনিধিত্ব করে যা একটি এনপি জন্য বাম অনুসন্ধান এবং একটি বাক্য উত্পন্ন করে। "
+নির্ভরতা ব্যাকরণ
+নির্ভরতা গঠনের অধীনে "আলফ্রেড বক্তৃতা" হল একটি বাক্যসংক্রান্ত ফ্রেজ নির্ভরতা ব্যাকরণ হল বাক্য কাঠামোর একটি পদ্ধতি যেখানে সিনট্যাক্টিক ইউনিটগুলিকে নির্ভরতার সম্পর্ক অনুসারে সাজানো হয়, যেহেতু রেফারেন্স কাঠামোটির সংখ্যাগরিষ্ঠতার সাথে ব্যাকরণগুলির সম্পর্কের বিরোধিতা করে। নির্ভরতাগুলি শব্দের মধ্যে লিঙ্কগুলি নির্দেশ করে। সসীম ক্রিয়াকে সকল ক্লজ গঠনের মূল অংশ হিসেবে দেখা হয় এবং অন্যান্য মূল শব্দের অর্থ এই পদ্ধতিতে প্রত্যক্ষ বা পরোক্ষভাবে এই মূলের উপর নির্ভরশীল। বাক্যতত্ত্বের কিছু বিশিষ্ট নির্ভরশীলতা ভিত্তিক তত্ত্বগুলি হল:
+
+পুনরাবৃত্ত বিবরণের বাক্যতত্ত্ব বা বীজগাণিতিক বাক্যতত্ত্ব
+কার্যকরী উত্পাদক বর্ণনা
+অর্থ-পাঠ্য তত্ত্ব
+অপারেটর ব্যাকরণ
+শব্দ ব্যাকরণ
+
+লুসিয়েন টেসনিয়ারকে (১৮৯৩-১৯৫৪) ব্যাপকভাবে বাক্যতত্ত্ব এবং ব্যাকরণের আধুনিক নির্ভরতা ভিত্তিক তত্ত্বের পিতা হিসেবে দেখা হয়। তিনি দফতরের বাইনারি বিভাগের বিরুদ্ধে কঠোরভাবে তর্ক করেন এবং বিধেয় কে ব্যাকরণের সহযোগী (এস → এনপি ভিপি) হিসেবে মনে করেন এবং যা অধিকাংশ বাক্যাংশ গঠন ব্যাকরণের মূল অংশে থাকে। এই বিভাগের জায়গায় তিনি সমস্ত ক্লজ কাঠামোর মূল হিসাবে ক্রিয়াকে স্থান দিয়েছেন।
+স্টচাস্টিক / সম্ভাব্য ব্যাকরণ / নেটওয়ার্ক তত্ত্ব
+বাক্যতত্ত্বের তাত্ত্বিক পন্থা যা সম্ভাব্যতা তত্ত্বের উপর ভিত্তি করে তৈরি হয় যা স্টচাস্টিক ব্যাকরণ নামে পরিচিত। এই ধরনের একটি পদ্ধতির সাধারণ বাস্তবায়নকে একটি স্নায়ুতন্ত্রের নেটওয়ার্ক বা সংযোগবাদ হিসেবে ব্যবহার করা হয় ।
+কার্যকারিতার ব্যাকরণ
+কার্যকারিতার তত্ত্ব যদিও গঠনের উপর দৃষ্টি নিবদ্ধ করে যাদের একটি বাক্যের কার্যের উপর ভিত্তি করে ব্যাখ্যা করা হয় (যেমন তার কার্যকরী ফাংশন)। কিছু সাধারণ ক্রিয়ামূলকবাদী তত্ত্ব হল:
+জ্ঞানীয় ব্যাকরণ
+
+নির্মাণ ব্যাকরণ
+জরুরী ব্যাকরণ
+কার্যকরী বক্তৃতা ব্যাকরণ
+প্রাগ ভাষাগত বৃত্ত
+ভূমিকা এবং রেফারেন্স ব্যাকরণ
+সিস্টেমিক ক্রিয়ামূলক ব্যাকরণ
+
+তথ্যসূত্র
+
+Brown, Keith; Miller, Jim, eds. (1996). Concise Encyclopedia of Syntactic Theories. New York: Elsevier Science. আইএসবিএন ০-০৮-০৪২৭১১-১.
+Carnie, Andrew (2006). Syntax: A Generative Introduction (2nd ed.). Oxford: Wiley-Blackwell. আইএসবিএন ১-৪০৫১-৩৩৮৪-৮.
+Freidin, Robert; Lasnik, Howard, eds. (2006). Syntax. Critical Concepts in Linguistics. New York: Routledge. আইএসবিএন ০-৪১৫-২৪৬৭২-৫.
+Graffi, Giorgio (2001). 200 Years of Syntax. A Critical Survey. Studies in the History of the Language Sciences 98. Amsterdam: Benjamins. আইএসবিএন ৯০-২৭২-৪৫৮৭-৮.
+Talasiewicz, Mieszko (2009). Philosophy of Syntax—Foundational Topics. Springer. আইএসবিএন ৯৭৮-৯০-৪৮১-৩২৮৭-৪. An interdisciplinary essay on the interplay between logic and linguistics on syntactic theories.
+Tesnière, Lucien 1969. Éleménts de syntaxe structurale. 2nd edition. Paris: Klincksieck.
+
+উল্লেখযোগ্য গ্রন্থাবলি
+পটভূমিক আলোচনা
+
+Burton-Roberts, N. (1986) Analysing Sentences: An Introduction to English Syntax. Cambridge: CUP.
+Cook, V. & M. Newson (1996/2006) Chomsky's Universal Grammar. An Introduction. Oxford: Blackwell.
+Radford, A. (1988) Transformational Grammar: A First Course. CUP, 1988.
+Tallerman, M. (1998/2005). Understanding Syntax. London: Arnold.
+
+সাধারণ পাঠ্যপুস্তক
+
+Adger, D. (2002) Core Syntax: a Minimalist Approach. Oxford: OUP.
+Carnie, A. (2002/2006) Syntax: A Generative Introduction. Oxford: Blackwell.
+Culicover, P.J. (1997) Principles and Parameters: An Introduction to Syntactic Theory. Oxford: OUP.
+Green, G. and Morgan, J. 2001. Practical Guide to Syntactic Analysis. CSLI Publications.
+Haegeman, L. (1994) Introduction to Government and Binding Theory. Oxford: Blackwell.
+Haegeman, L. and J. GuŽron (1999) English Grammar. A Generative Perspective. Oxford: Blackwell.
+Haegeman, L. (2006) Thinking Syntactically. A Guide to Argumentation and Analysis. Oxford: Blackwell.
+Hornstein, N., J. Nunes and K. Grohmann (2005) Understanding Minimalism. Cambridge: CUP.
+Lasnik, H. and J. Uriagereka (1988) A Course in GB Syntax: Lectures on Binding and Empty Categories. Cambridge, Mass.: MIT Press.
+Lasnik, H. and J. Uriagereka (2005) A Course in Minimalist Syntax. Foundations and Prospects. Oxford: Blackwell.
+Napoli, D.J. (1993) Syntax: Theory and Problems. Oxford: OUP.
+Ouhalla, J. (1999) Introducing Transformational Grammar. London: Arnold.
+Poole, G. (2002) Syntactic Theory. London: Palgrave.
+Radford, A. (1988) Transformational Grammar: A First Course. Cambridge: CUP.
+Radford, A. (2004) Minimalist Syntax. Cambridge: CUP.
+Roberts, I. (1997) Comparative Syntax. London: Arnold.
+
+বিভিন্ন বাক্যতত্ত্বের পর্যালোচনা
+
+Edmondson, Jerold and Donald A. Burquest (1998) A Survey of Linguistic Theories. (3rd ed.) Dallas: Summer Institute of Linguistics.
+Sampson, Geoffrey (1980) Schools of Linguistics.
+Sells, Peter (1985) Lectures on Contemporary Syntactic Theories. Stanford: CSLI Publications.
+
+চম্‌স্কীয় (রূপান্তরমূলক) সঞ্জননী বাক্যতত্ত্ব
+শুরু
+
+Chomsky, Noam (1975). The Logical Structure of Linguistic Theory. Chicago: University of Chicago Press. (Written in 1955)
+Chomsky, Noam (1957). Syntactic Structures. The Hague: Mouton.
+
+মান তত্ত্ব (Standard Theory or ST)
+
+Katz, Jerold J., and Paul M. Postal (1964). An Integrated Theory of Linguistic Descriptions. Cambridge, MA: MIT Press.
+Chomsky, Noam (1965). Aspects of the Theory of Syntax. Cambridge, MA.: MIT Press.
+
+সম্প্রসারিত মান তত্ত্ব (Extended Standard Theory or EST)
+
+Chomsky, Noam (1973). ‘Conditions on transformations.’ In Anderson S R & Kiparsky P (eds.) A Festschrift for Morris Halle. New York: Holt, Rinehart & Winston. 232–286. [Reprinted in Chomsky, Noam (1977). Essays on form and interpretation. New York, Amsterdam/Oxford: North-Holland, 80–160.]
+Bach, E (1977). ‘Comments on the paper by Chomsky.’ In Culicover P W, Wasow T & Akmajian A (eds.) Formal syntax. New York: Academic Press. 133–155.
+
+শাসন ও বন্ধন (Government and Binding) তত্ত্ব
+
+Chomsky, Noam (1981). Lectures on Government and Binding. Dordrecht: Foris.
+Radford, Andrew (1988). Transformational Grammar: A First Course. Cambridge University Press.
+Cowper, Elizabeth (1992). A Concise Introduction to Syntactic Theory: The Government and Binding Approach. Chicago: Chicago University Press.
+Haegeman, Liliane (1994). Introduction to Government and Binding Theory. Oxford: Blackwell.
+Cook, V. J. and Mark Newson (1996). Chomsky’s Universal Grammar: An Introduction (2nd ed.). Oxford: Blackwell.
+
+নীতি ও পরামিতি (Principles and Parameters) তত্ত্ব এবং ন্যূনতমবাদী প্রকল্প (the Minimalist Program)
+
+Chomsky, Noam (1995). The Minimalist Program. Cambridge, MA: MIT Press.
+Ouhalla, Jamal (1999). Introducing Transformational Grammar : From Principles and Parameters to Minimalism (2nd ed.). London: Edward Arnold.
+Radford, Andrew (2004). Minimalist Syntax: Exploring the Structure of English. Cambridge: Cambridge University Press.
+Carney, Andrew (2006). Syntax: A Generative Introduction (2nd ed.). Oxford: Blackwell.
+Roberts, Ian (1997). Comparative Syntax. London: Edward Arnold.
+
+আভিধানিক কার্যমূলক ব্যাকরণ (Lexical Functional Grammar)
+
+Dalrymple, Mary, Ronald Kaplan, John Maxwell and Annie Zaenen (eds.) (1995) Formal Issues in Lexical-Functional Grammar. Stanford: CSLI Publications.
+Bresnan, Joan (2001) Lexical-Functional Syntax. Oxford: Blackwell.
+Dalrymple, Mary (2001) Lexical Functional Grammar. New York: Academic Press.
+Falk, Yehuda N. (2002) Lexical-Functional Grammar: An Introduction to Parallel Constraint-Based Syntax. Stanford: CSLI Publications.
+
+সাধারণীকৃত পদ সংগঠন ব্যাকরণ (Generalized Phrase Structure Grammar) এবং মস্তক-চালিত পদ সংগঠন ব্যাকরণ (Head Driven Phrase Structure Grammar)
+
+Gazdar, Gerald, Ewan Klein, Geoffrey Pullum and Ivan Sag (1985) Generalized Phrase Structure Grammar. Cambridge: Harvard University Press.
+Pollard, Carl and Ivan Sag (1994) Head-Driven Phrase Structure Grammar. Stanford: CSLI Publications and Chicago: The University of Chicago Press.
+Borsley, Robert (1996) Modern Phrase Structure Grammar. Oxford: Blackwell.
+Richter, Frank (2000) A Mathematical Formalism for Linguistic Theories with an Application in Head-Driven Phrase Structure Grammar. Ph.D. Dissertation. University of Tübingen.
+Sag, Ivan, Thomas Wasow and Emily Bender (2003) Syntactic Theory: A Formal Introduction. (2nd ed.). Stanford: CSLI Publications.
+
+
+
+ভাষাবিজ্ঞান বিষয়ক এই নিবন্ধটি অসম্পূর্ণ। আপনি চাইলে  উইকিপিডিয়াকে সাহায্য করতে পারেন।
+
+
+দে
+আ
+
+
+
+
+
+
+
+
+
+

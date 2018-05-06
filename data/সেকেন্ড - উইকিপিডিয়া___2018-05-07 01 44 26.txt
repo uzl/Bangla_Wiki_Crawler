@@ -1,0 +1,393 @@
+অন্য ব্যবহারের জন্য, দেখুন সেকেন্ড (দ্ব্যর্থতা নিরসন)।
+এস্‌আই একক পদ্ধতিতে সময়ের একককে সেকেন্ড বলা হয়।
+
+
+
+পরিচ্ছেদসমূহ
+
+
+১ সংজ্ঞা
+২ আরোও দেখুন
+৩ নোট ও তথ্যসূত্র
+৪ বহিঃসংযোগ
+
+
+
+সংজ্ঞা
+সেকেন্ডের প্রথম দিকের সংজ্ঞাটি ছিল পৃথিবীর নিজ অক্ষের চারদিকে ঘূর্ণনের উপর ভিত্তি করে। তখন বলা হতো, পৃথিবী যে সময়ে নিজ অক্ষের উপর সম্পূর্ণ একবার আবর্তিত হয় তার ৮৬৪০০ ভাগের এক ভাগকে এক সেকেন্ড বলে। কিন্তু ঊনবিংশ ও বিংশ শতাব্দীর বিজ্ঞানীরা আবিষ্কার করল যে পৃথিবীর নিজ অক্ষের উপর ঘূর্ননের গতি স্থির নয়। অর্থাৎ তখন থেকেই তারা সেকেন্ডের সংজ্ঞাদেয়ার জন্য পৃথিবীর ঘূর্ণন গতিকে বাদ দিয়ে নতুন একটি সংজ্ঞা খুজছিল। এটমিক ঘড়ির উন্নতির ফলে এটা দৃশ্যমান হয়ে গেল যে সেকেন্ডের সংজ্ঞা আসলে প্রকৃতির নিয়ম অনুসারেই করা উচিত। একারণেই ১৯৬৭ সালের পর থেকে সেকেন্ডের নিম্নোক্ত সংজ্ঞাটি ব্যবহার করা হয়ে থাকে:
+"শূন্য কেলভিন তাপমাত্রায় একটি অনুত্তেজিত সিজিয়াম ১৩৩ পরমাণুর ৯,১৯২,৬৩১,৭৭০ টি স্পন্দন সম্পন্ন করতে যে সময় লাগে তাকে ১ সেকেন্ড বলে।"
+আরোও দেখুন
+
+আন্তর্জাতিক একক পদ্ধতি
+স্থানাংকিত আন্তর্জাতিক সময়
+
+নোট ও তথ্যসূত্র
+
+বহিঃসংযোগ
+
+
+
+উইকিঅভিধানে সেকেন্ড শব্দটি খুঁজুন।
+
+
+
+
+
+উইকিমিডিয়া কমন্সে  সংক্রান্ত মিডিয়া রয়েছে।
+
+
+
+
+
+[অকার্যকর সংযোগ]
+
+
+
+[অকার্যকর সংযোগ]
+
+
+
+
+
+
+
+
+দে
+
+
+
+সময়ের মান ও পরিমাপ
+
+
+
+প্রধান বিষয়
+
+
+
+সময়
+Chronometry
+Orders of magnitude
+Metrology
+
+
+
+
+
+আন্তর্জাতিক মান
+
+
+
+ইউটিসি
+UTC offset
+ইউটি
+Δটি
+DUT1
+IERS
+আইএসও ৩১-১
+আইএসও ৮৬০১
+আন্তর্জাতিক আণবিক সময়
+12-hour clock
+24-hour clock
+Barycentric Coordinate Time
+Civil time
+দিবালোক সংরক্ষণ সময়
+Geocentric Coordinate Time
+আন্তর্জাতিক তারিখ রেখা
+Leap second
+সৌর সময়
+Terrestrial Time
+সময় অঞ্চল
+
+
+
+
+
+অপ্রচলিত মান
+
+
+
+Barycentric Dynamical Time
+Ephemeris time
+গ্রীনিচ মান সময়
+মূল মধ্যরেখা
+
+
+
+
+
+পদার্থবিজ্ঞানের সময়
+
+
+
+Absolute time and space
+স্থান-কাল
+Chronon
+Continuous time
+Coordinate time
+Cosmological decade
+Discrete time
+Planck epoch
+প্লাংকের সময়
+Proper time
+আপেক্ষিকতা তত্ত্ব
+Time dilation
+Gravitational time dilation
+Time domain
+T-symmetry
+
+
+
+
+
+ঘড়ি নির্মাণবিদ্যা
+
+
+
+ঘড়ি
+Astrarium
+আণবিক ঘড়ি
+Complication
+Equation of time
+History of timekeeping devices
+Hourglass
+Marine chronometer
+Marine sandglass
+Radio clock
+Sundial
+Watch
+জল ঘড়ি
+
+
+
+
+
+পঞ্জিকা
+
+
+
+Astronomical
+Dominical letter
+Epact
+বিষুব
+গ্রেগরীয়
+হিব্রু
+হিন্দু
+Intercalation
+ইসলামিক
+জুলীয়
+অধিবর্ষ
+Lunar
+Lunisolar
+Seven-day week
+Solar
+Solstice
+Tropical year
+Weekday determination
+Weekday names
+
+
+
+
+
+প্রত্নতত্ত্ব এবং ভূবিদ্যা
+
+
+
+Dating methodologies
+ভূতাত্ত্বিক সময়
+ইন্টারন্যাশনাল কমিশন অন স্ট্র্যাটিগ্রাফি
+
+
+
+
+
+জ্যোতির্বিদ্যা কালপঞ্জি
+
+
+
+Galactic year
+Nuclear time scale
+Precession
+Sidereal time
+
+
+
+
+
+সময়ের একক
+
+
+
+শতাব্দী
+দিন
+দশক
+পক্ষ
+ঘন্টা
+Jiffy
+Lustrum
+Millennium
+মিনিট
+মাস
+Paksha
+Saeculum
+সেকেন্ড
+Shake
+Tide
+সপ্তাহ
+বছর
+
+
+
+
+
+সম্পর্কিত বিষয়
+
+
+
+Chronology
+Duration
+Mental chronometry
+Metric time
+System time
+Time value of money
+Timekeeper
+
+
+
+
+
+
+
+
+
+
+
+
+দে
+
+
+
+এসআই একক
+
+
+
+মূল এককসমূহ
+
+
+
+অ্যাম্পিয়ার
+কেলভিন
+ক্যান্ডেলা
+কিলোগ্রাম
+মিটার
+মোল
+সেকেন্ড
+
+
+
+
+
+
+
+
+উপসৃষ্ট এককসমূহ
+
+
+
+Becquerel
+কুলম্ব
+ডিগ্রী সেলসিয়াস
+Farad
+Gray
+Henry
+Hertz
+জুল
+Katal
+Lumen
+Lux
+নিউটন
+ওহম
+প্যাস্কেল
+Radian
+সিমেন্স
+Sievert
+Steradian
+Tesla
+ভোল্ট
+ওয়াট
+Weber
+
+
+
+
+
+এসআই এর সাথে ব্যবহারের
+জন্য গৃহীত
+
+
+
+Dalton (Atomic mass unit)
+জ্যোতির্বিদ্যা-একক
+দিন
+Decibel
+ডিগ্রী সেলসিয়াস
+আর্কডিগ্রী
+ইলেকট্রন-ভোল্ট
+হেক্টর
+ঘণ্টা
+লিটার
+মিনিট
+আর্কমিনিট
+Neper
+আর্কসেকেন্ড
+টন
+Atomic units
+Natural units
+
+
+
+
+
+আরও দেখুন
+
+
+
+Systems of measurement
+SI prefixes
+একক রূপান্তর
+New SI definitions
+History of the metric system
+
+
+
+
+
+
+
+
+সংক্ষিপ্ত বিবরণ:মেট্রিক পদ্ধতির রূপরেখা
+ বই:আন্তর্জাতিক একক পদ্ধতি
+ বিষয়শ্রেণী:এসআই ভিত্তি একক
+
+
+
+
+
+
+
+
+এই নিবন্ধটি অসম্পূর্ণ। আপনি চাইলে  উইকিপিডিয়াকে সাহায্য করতে পারেন।
+
+
+দে
+আ
+
+
+
+
+
+
+
+
+
+

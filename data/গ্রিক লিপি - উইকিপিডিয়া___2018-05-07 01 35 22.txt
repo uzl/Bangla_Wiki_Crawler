@@ -1,0 +1,646 @@
+১০০০ খ্রিস্টপূর্বাব্দে গ্রিসে লিখন পদ্ধতির বিকাশ ঘটে ও বর্ণমালার উদ্ভব ঘটে। অন্যান্য ইউরোপীয় বর্ণমালা পরবর্তীকালে এই গ্রিক বর্ণমালা থেকেই প্রত্যক্ষ বা পরোক্ষভাবে বিকশিত হয়।
+
+
+
+পরিচ্ছেদসমূহ
+
+
+১ ইতিহাস
+২ ছক
+
+২.১ অব্যবহৃত অক্ষর
+
+
+৩ বহিঃসংযোগ
+৪ আরও দেখুন
+
+
+
+ইতিহাস
+গ্রিক বর্ণমালার পূর্বসুরি উত্তর সেমিটিক বর্ণমালা যা ফিনিসীয় ভাষা থেকে রূপ লাভ করে। অবশ্য যেহেতু গ্রিক ভাষাটি কোন সেমিটিক ভাষা নয় সেহেতু সেমিটিক গোত্র থেকে উদ্ভূত বর্ণমালা দ্বারা গ্রিক লেখার জন্য তাতে কিছু পরিমার্জন আনা হয়।
+ছক
+
+
+অক্ষর
+নাম
+উচ্চারণ আ-ধ্ব-ব-তে
+ফিনিসীয
+অক্ষর
+রোমান অক্ষরে
+
+
+প্রাচীন
+গ্রিক
+মধ্যযুগীয়
+গ্রিক
+আধুনিক
+গ্রিক
+ইংরেজি
+ক্ল্যাসিকাল
+প্রাচীন
+গ্রিক
+আধুনিক
+গ্রিক
+প্রাচীন
+গ্রিক
+আধুনিক
+গ্রিক
+সংখ্যা
+
+
+A α
+ἄλφα
+আল্ফা
+άλφα
+আল্ফ়া
+Alpha
+অ্যাল্ফ়া
+[a] [aː]
+[a]
+ Aleph
+a
+a
+1
+
+
+B β
+βῆτα
+বেতা
+βήτα
+ভিতা
+Beta
+বেটা
+[b]
+[v]
+ Beth
+b
+v
+2
+
+
+Γ γ
+γάμμα
+গাম্মা
+γάμμα
+γάμα
+গামা
+Gamma
+গ্যামা
+[ɡ]
+[ʝ] before [e̞] or [i];
+[ɣ] otherwise
+ Gimel
+g
+gh, g, j
+3
+
+
+Δ δ
+δέλτα
+দেল্তা
+δέλτα
+দেল্তা
+Delta
+ডেল্টা
+[d]
+[ð]
+ Daleth
+d
+d, dh
+4
+
+
+Ε ε
+εἶ
+এ
+ἒ ψιλόν
+এ প্সিলোন্‌
+έψιλον
+এপ্সিলন্‌
+Epsilon
+এপ্সিলন্‌
+[e]
+[e̞]
+ He
+e
+e
+5
+
+
+Ζ ζ
+ζῆτα
+জ়্‌‌দেতা
+ζήτα
+জ়িতা
+Zeta
+জ়েটা
+likely [zd]
+(or [dz]?)
+later [zː]
+[z]
+ Zayin
+z
+z
+7
+
+
+Η η
+ἦτα
+অ্যাতা
+ήτα
+ইতা
+Eta
+এটা
+[ɛː]
+[i]
+ Heth
+e, ē
+i
+8
+
+
+Θ θ
+θῆτα
+থেতা
+θήτα
+থ়িতা
+Theta
+থ়েটা
+[tʰ]
+[θ]
+ Teth
+th
+th
+9
+
+
+Ι ι
+ἰῶτα
+ইয়োতা
+ιώτα
+γιώτα
+গ়িয়োতা
+Iota
+আইয়োটা
+[i] [iː]
+[i], [j]
+ Yodh
+i
+i
+10
+
+
+Κ κ
+κάππα
+কাপ্পা
+κάππα
+κάπα
+কাপা
+Kappa
+ক্যাপা
+[k]
+[c] before [e̞] or [i];
+[k] otherwise
+ Kaph
+k
+k
+20
+
+
+Λ λ
+λάβδα
+লাব্দা
+λάμβδα
+লাম্ব্দা
+λάμδα
+λάμβδα
+লাম্‌দা
+Lamda
+ল্যাম্‌ডা
+[l]
+[l]
+ Lamedh
+l
+l
+30
+
+
+Μ μ
+μῦ
+ম্যু
+μι
+μυ
+মি
+Mu
+মিউ
+[m]
+[m]
+ Mem
+m
+m
+40
+
+
+Ν ν
+νῦ
+ন্যু
+νι
+νυ
+নি
+Nu
+নিউ
+[n]
+[n]
+ Nun
+n
+n
+50
+
+
+Ξ ξ
+ξεῖ
+ক্সে
+ξῖ
+ক্সি
+ξι
+ক্সি
+Xi
+জ়াই
+[ks]
+[ks]
+ Samekh
+x
+x, ks
+60
+
+
+Ο ο
+οὖ
+ও
+ὂ μικρόν
+ও মিক্রোন্‌
+όμικρον
+অমিক্রন্‌
+Omicron
+ওমিক্রন্‌
+[o]
+[o̞]
+ 'Ayin
+o
+o
+70
+
+
+Π π
+πεῖ
+পে
+πῖ
+পি
+πι
+পি
+Pi
+পাই
+[p]
+[p]
+ Pe
+p
+p
+80
+
+
+Ρ ρ
+ῥῶ
+হ্র
+ρω
+র
+Rho
+রো
+[r], [r̥]
+[r]
+ Resh
+r (ῥ: rh)
+r
+100
+
+
+Σ σ
+ς (চূড়ান্ত)
+σῖγμα
+সিংমা
+σίγμα
+সিগ্‌মা
+Sigma
+সিগ্‌মা
+[s]
+[s]
+ Shin
+s
+s
+200
+
+
+Τ τ
+ταῦ
+তাউ
+ταυ
+তাফ়্‌
+Tau
+টাউ
+[t]
+[t]
+ Taw
+t
+t
+300
+
+
+Υ υ
+ὗ
+উ্য
+ὓ ψιλόν
+উ্য প্সিলোন্‌
+ύψιλον
+ইপ্সিলন্‌
+Upsilon
+ইউপ্সিলন্‌
+[y] [yː]
+(earlier [u] [uː])
+[i]
+ Waw
+u, y
+y, v, f
+400
+
+
+Φ φ
+φεῖ
+ফে
+φῖ
+ফি
+φι
+ফ়ি
+Phi
+ফ়াই
+[pʰ]
+[f]
+origin disputed
+(see text)
+ph
+f
+500
+
+
+Χ χ
+χεῖ
+খে
+χῖ
+খি
+χι
+খ়ি
+Chi
+কাই
+[kʰ]
+[ç] before [e̞] or [i];
+[x] otherwise
+ch
+ch, kh
+600
+
+
+Ψ ψ
+ψεῖ
+প্সে
+ψῖ
+প্সি
+ψι
+প্সি
+Psi
+সাই
+[ps]
+[ps]
+ps
+ps
+700
+
+
+Ω ω
+ὦ
+অ
+ὦ μέγα
+অমেগা
+ωμέγα
+অমেগ়া
+Omega
+ওমেগা
+[ɔː]
+[o̞]
+ 'Ayin
+o, ō
+o
+800
+
+
+অব্যবহৃত অক্ষর
+
+
+অক্ষর
+ফিনিসীয অক্ষর
+নাম
+প্রাচীন গ্রিক
+ক্ল্যাসিকাল প্রাচীন গ্রিক
+সংখ্যা
+
+
+ইংরেজি
+মধ্যযুগীয গ্রিক
+আধুনিক গ্রিক
+
+
+Ϝ ϝ
+ Waw
+Digamma
+ϝαῦ
+δίγαμμα
+w
+[w]
+6
+
+
+Ϛ ϛ
+
+Stigma
+στίγμα
+στίγμα
+st
+[st]
+6
+
+
+Ͱ ͱ
+ Heth
+Heta
+ἧτα
+–
+h
+[h]
+–
+
+
+Ϻ ϻ
+ Sade
+San
+ϻάν
+σάν
+s
+[s]
+–
+
+
+Ϟ ϟ (Ϙ ϙ)
+ Qoph
+Koppa
+ϙόππα
+κόππα
+q
+[q]
+90
+
+
+Ϡ ϡ (Ͳ ͳ)
+ Sade
+Sampi
+–
+σαμπῖ
+ss
+[sː], [ks], [ts]
+900
+
+
+Ϸ ϸ
+ Shin
+Sho
+–
+–
+sh
+[ʃ]
+–
+
+
+বহিঃসংযোগ
+
+
+
+ (ইংরেজি)
+
+আরও দেখুন
+
+ (ইংরেজি)
+ (ইংরেজি)
+ (ইংরেজি)
+ (ইংরেজি)
+ (ইংরেজি)
+ (ইংরেজি)
+ (ইংরেজি)
+
+
+
+
+
+
+
+দে
+
+
+
+লিখন পদ্ধতিসমূহ
+
+
+
+ভূমিকা
+
+লিখনের ইতিহাস · অক্ষরমূল
+
+
+
+তালিকাসমূহ
+
+লিখন পদ্ধতির তালিকা · লিখন পদ্ধতি অনুযায়ী ভাষার তালিকা · ব্যবহারকারীর সংখ্যা অনুযায়ী লিখন পদ্ধতির তালিকা · প্রথম লিখিত নিদর্শন অনুযায়ী ভাষার তালিকা · অনুদ্ধারিত লিখন পদ্ধতিসমূহ · লিখন পদ্ধতির উদ্ভাবকের তালিকা
+
+
+
+প্রকার
+
+
+
+
+
+আবজাদ
+(সংখ্যা)
+
+
+আরামীয় · আরবি · হিব্রু · জাউই · নাবাতীয় · পাহলভী লিপি · ফিনিসীয় · প্রত্ন-কানানীয় · প্‌সাল্টার · সাবায়ীয় · সামারিটান · দক্ষিণ আরবীয় · সগদীয় · সিরীয় · তিফিনাঘ লিপি · উগারীয়
+
+
+
+
+আবুগিদা
+
+
+ব্রাহ্মী পরিবার: অহম · বালীয় · Batak · Baybayin · Brāhmī · Buhid · Burmese · Chakma · Cham · Devanāgarī · Dhives Akuru · Eastern Nagari · Grantha · Gujarati · Gupta · Gurmukhī · Hanunó'o · Javanese · Kadamba  · Kaithi · Kalinga · Kannada · Khmer · Lanna · Lao · Lepcha · Limbu · Lontara · Malayalam · Meitei Mayek · Mithilakshar · Modi · Mon · Nāgarī · Nepal  · Old Kawi · Old Sundanese · Oriya · Pallava · Phagspa · Ranjana · Rejang · Śāradā · Saurashtra · Sinhala · Siddhaṃ · Soyombo · Sundanese · Sylheti Nagari · Tagbanwa · Tai Dam · Tai Le · Takri · Tamil · Telugu · Thai · Tibetan · Tocharian · Varang Kshiti
+Other: Boyd's syllabic shorthand · Canadian Aboriginal · Ge'ez · Hebrew cursive · Japanese braille · Kharosthi · Meroitic · Pitman shorthand · Pollard script · Sorang Sompeng · Thaana · Thomas Natural Shorthand
+
+
+
+
+বর্ণমালা
+
+
+Linear: Arabic · Armenian · Avestan · Beitha Kukju · Coptic · Cyrillic · Eclectic shorthand · Elbasan · Fraser · Gabelsberger shorthand · Georgian · Glagolitic · Gothic · Gregg shorthand · Greek · Greco-Iberian alphabet · Hangul · International Phonetic · Latin · Manchu · Mandaic · Mongolian ·  Neo-Tifinagh · N'Ko · Ogham · Ol Chiki · Old Hungarian · Old Italic · Old Permic · Orkhon · Osmanya · Runic · Shavian alphabet · New Tai Lue · Bassa Vah · Visible Speech · Zhùyīn fúhào · Pahawh Hmong
+Non-linear: ব্রেইল · হিব্রু ব্রেইল · কোরীয় ব্রেইল · Maritime flags · মোর্স সংকেত · New York Point · Semaphore line · Flag semaphore
+
+
+
+
+Ideo- & চিত্রলিপি
+
+
+Blissymbol · DanceWriting · Dongba · Mi'kmaq · New Epoch Notation Painting · SignWriting
+
+
+
+
+চিত্রলিপি
+
+
+Egyptian consonant-based: ডেমোটিক · হায়রাটিক লিপি · হায়ারোগ্লিফিক
+Syllable-based: Anatolian · কীলকলিপি  · Dongba script · মায়া · Tangut script · Yi
+Chinese-based: চীনা অক্ষর (ঐতিহ্যবাহী · Simplified) · Chữ Nôm · Hanja · Geba · Jurchen · Kanji · Khitan · Zhuang
+Aztec
+
+
+
+
+Semi-syllabaries
+
+
+Full semi-syllabaries: Celtiberian script  · Northeastern Iberian script  · Southeastern Iberian script
+Redundant semi-syllabaries: Southwestern script
+
+
+
+
+সিলাবেরি
+
+
+Afaka · Cherokee · Cypriot · Hiragana · Katakana · Kikakui · Kpelle · Linear B · Man'yōgana · Nü Shu · পুরোন পারস্য কীলকলিপি · ভাই · Woleaian · Yi · Yugtun
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,271 @@
+
+টুরিং পুরস্কার (ইংরেজি: Turing Award) কম্পিউটার বিজ্ঞানে অবদানের জন্য প্রদান করা একটি সম্মাননা। অ্যাসোসিয়েশন ফর কম্পিউটিং মেশিনারি বা এসিএম প্রতি বছর এই পুরস্কারটি প্রদান করে থাকে। এটি কম্পিউটার বিজ্ঞানের সর্বোচ্চ পুরস্কার হিসেবে বিবেচিত এবং এটিকে কম্পিউটার বিজ্ঞানের নোবেল পুরস্কার বলা হয়ে থাকে। কম্পিউটার বিজ্ঞানী ও গণিতজ্ঞ অ্যালান টুরিং-এর নামানুসারে এই পুরস্কারটির নামকরণ করা হয়েছে।
+বিজয়ীদের তালিকা
+
+
+বছর
+বিজয়ী
+কী অবদানের জন্য পুরস্কার
+
+
+১৯৬৬
+অ্যালান পারলিস
+অগ্রসর প্রোগ্রামিং কৌশলাদি এবং কম্পাইলার তৈরির ক্ষেত্রে প্রভাবের জন্য
+
+
+১৯৬৭
+মরিস ভিনসেন্ট উইলকিস
+প্রফেসর উইল্‌ক্‌স এডস্যাক কম্পিউটারের পরিকল্পক ও নির্মাতা হিসেবে খ্যাত। এই কম্পিউটারেই প্রথম একটি কম্পিউটার প্রোগ্রাম সংরক্ষণ করা হয়। ১৯৪৯ সালে নির্মিত কম্পিউটারটিতে মার্কারি ডিলে লাইন মেমরি ব্যবহার করা হয়েছিল। এছাড়াও উইল্‌ক্‌স হুইলার ও গিলের সাথে একত্রে ১৯৫১ সালে Preparation of Programs for Electronic Digital Computers শীর্ষক একটি বই লেখেন। এই বইটিতেই প্রথম প্রোগ্রাম লাইব্রেরির ধারণা প্রথম উপস্থাপন করা হয়।
+
+
+১৯৬৮
+রিচার্ড হ্যামিং
+সাংখ্যিক পদ্ধতি, স্বয়ংক্রিয় কোডিং ব্যবস্থা, এবং ত্রুটি-শনাক্তকারী ও ত্রুটি-নিবারণকারী কোডের উপর তাঁর কাজের জন্য।
+
+
+১৯৬৯
+মার্ভিন মিন্সকি
+কৃত্রিম বুদ্ধিমত্তা
+
+
+১৯৭০
+জেমস উইল্কিন্সন
+For his research in numerical analysis to facilitiate the use of the high-speed digital computer, having received special recognition for his work in computations in linear algebra and "backward" error analysis
+
+
+১৯৭১
+জন ম্যাকার্থি
+Dr. McCarthy's lecture "The Present State of Research on Artificial Intelligence" is a topic that covers the area in which he has achieved considerable recognition for his work
+
+
+১৯৭২
+এট্‌সখার ডেইক্‌স্ট্রা
+এট্‌সখার ডেইক্‌স্ট্রা ১৯৫০-এর দশকে উচ্চস্তরের প্রোগ্রামিং ভাষা অ্যালগল নির্মাণে একজন প্রধান অবদানকারী ছিলেন। অ্যালগল ভাষাটি পরিচ্ছন্নতা এবং গাণিতিক বিধিবদ্ধতার একটি মডেল হিসেবে পরিগণিত হয়। ডেইকস্ট্রা প্রোগ্রামিং ভাষাসমূহের বিজ্ঞান ও শিল্পের একজন প্রধান প্রবক্তা; তিনি প্রোগ্রামিং ভাষাসমূহের গঠন, উপস্থাপন এবং বাস্তবায়ন সম্পর্কে আমাদের জ্ঞানের পরিসর বৃদ্ধি করেছেন। প্রোগ্রামিং ভাষার ক্ষেত্রে তিনি দীর্ঘ ১৫ বছর ধরে লেখেন, যাতে তাত্ত্বিক গবেষণাপত্র থেকে শুরু করে সাধারণ ম্যানুয়াল, বড় রচনা, এবং দার্শনিক চিন্তা স্থান পেয়েছে।
+
+
+১৯৭৩
+চার্লস বাখমান
+ডেটাবেজ প্রযুক্তিতে অসামান্য অবদান রাখার জন্য
+
+
+১৯৭৪
+ডোনাল্ড কানুথ
+অ্যালগোরিদমসমূহের বিশ্লেষণ এবং প্রোগ্রামিং ভাষার ডিজাইনে ব্যাপক অবদান রাখার জন্য, বিশেষ করে দি আর্ট অভ কম্পিউটার প্রোগ্রামিং শিরোনামের বইয়ের সিরিজটি লেখার জন্য।
+
+
+১৯৭৫
+অ্যালেন নেওয়েল and হার্বার্ট সাইমন
+In joint scientific efforts extending over twenty years, initially in collaboration with J. C. Shaw at the RAND Corporation, and subsequentially with numerous faculty and student colleagues at Carnegie Mellon University, they have made basic contributions to artificial intelligence, the psychology of human cognition, and list processing
+
+
+১৯৭৬
+মাইকেল র‍্যাবিন and ডানা স্টুয়ার্ট স্কট
+For their joint paper "Finite Automata and Their Decision Problem," which introduced the idea of nondeterministic machines, which has proved to be an enormously valuable concept. Their (Scott & Rabin) classic paper has been a continuous source of inspiration for subsequent work in this field
+
+
+১৯৭৭
+জন বাকাস
+For profound, influential, and lasting contributions to the design of practical high-level programming systems, notably through his work on FORTRAN, and for seminal publication of formal procedures for the specification of programming languages
+
+
+১৯৭৮
+রবার্ট বব ফ্লয়েড
+For having a clear influence on methodologies for the creation of efficient and reliable software, and for helping to found the following important subfields of computer science: the theory of parsing, the semantics of programming languages, automatic program verification, automatic program synthesis, and analysis of algorithms
+
+
+১৯৭৯
+কেনেথ আইভার্সন
+For his pioneering effort in programming languages and mathematical notation resulting in what the computing field now knows as APL, for his contributions to the implementation of interactive systems, to educational uses of APL, and to programming language theory and practice
+
+
+১৯৮০
+টোনি হোর
+For his fundamental contributions to the definition and design of programming languages
+
+
+১৯৮১
+এডগার কড
+For his fundamental and continuing contributions to the theory and practice of database management systems, esp. relational databases
+
+
+১৯৮২
+স্টিফেন আর্থার কুক
+For his advancement of our understanding of the complexity of computation in a significant and profound way
+
+
+১৯৮৩
+কেন টম্পসন and ডেনিস রিচি
+For their development of generic operating systems theory and specifically for the implementation of the UNIX operating system
+
+
+১৯৮৪
+নিকলাউস ভির্ট
+For developing a sequence of innovative computer languages, EULER, ALGOL-W, MODULA and PASCAL
+
+
+১৯৮৫
+রিচার্ড কার্প
+For his continuing contributions to the theory of algorithms including the development of efficient algorithms for network flow and other combinatorial optimization problems, the identification of polynomial-time computability with the intuitive notion of algorithmic efficiency, and, most notably, contributions to the theory of NP-completeness
+
+
+১৯৮৬
+জন এডওয়ার্ড হপক্রফট and রবার্ট টারজান
+For fundamental achievements in the design and analysis of algorithms and data structures
+
+
+১৯৮৭
+জন কোক
+For significant contributions in the design and theory of compilers, the architecture of large systems and the development of reduced instruction set computers (RISC)
+
+
+১৯৮৮
+আইভান এডওয়ার্ড সাদারল্যান্ড
+For his pioneering and visionary contributions to computer graphics, starting with Sketchpad, and continuing after
+
+
+১৯৮৯
+উইলিয়াম মর্টন কাহান
+For his fundamental contributions to numerical analysis. One of the foremost experts on floating-point computations. Kahan has dedicated himself to "making the world safe for numerical computations."
+
+
+১৯৯০
+ফার্নান্দো হোসে কোর্বাতো
+For his pioneering work organizing the concepts and leading the development of the general-purpose, large-scale, time-sharing and resource-sharing computer systems, CTSS and Multics.
+
+
+১৯৯১
+রবিন মিলনার
+For three distinct and complete achievements: 1) LCF, the mechanization of Scott's Logic of Computable Functions, probably the first theoretically based yet practical tool for machine assisted proof construction; 2) ML, the first language to include polymorphic type inference together with a type-safe exception-handling mechanism; 3) CCS, a general theory of concurrency. In addition, he formulated and strongly advanced full abstraction, the study of the relationship between operational and denotational semantics.
+
+
+১৯৯২
+বাটলার ল্যাম্পসন
+For contributions to the development of distributed, personal computing environments and the technology for their implementation: workstations, networks, operating systems, programming systems, displays, security and document publishing.
+
+
+১৯৯৩
+জুরিস হার্টম্যানিস and রিচার্ড এডউইন স্টার্নস
+In recognition of their seminal paper which established the foundations for the field of computational complexity theory.
+
+
+১৯৯৪
+এডওয়ার্ড আলবার্ট and রাজ রেড্ডি
+For pioneering the design and construction of large scale artificial intelligence systems, demonstrating the practical importance and potential commercial impact of artificial intelligence technology.
+
+
+১৯৯৫
+ম্যানুয়েল ব্লাম
+In recognition of his contributions to the foundations of computational complexity theory and its application to cryptography and program checking.
+
+
+১৯৯৬
+আমির নিউলি
+For seminal work introducing temporal logic into computing science and for outstanding contributions to program and systems verification.
+
+
+১৯৯৭
+ডগলাস কার্ল এঙ্গেলবার্ট
+For an inspiring vision of the future of interactive computing and the invention of key technologies to help realize this vision.
+
+
+১৯৯৮
+জিম গ্রে
+For seminal contributions to database and transaction processing research and technical leadership in system implementation.
+
+
+১৯৯৯
+ফ্রেড ব্রুক্‌স
+For landmark contributions to computer architecture, operating systems, and software engineering.
+
+
+২০০০
+অ্যান্ড্রু ইয়াও
+In recognition of his fundamental contributions to the theory of computation, including the complexity-based theory of pseudorandom number generation, cryptography, and communication complexity.
+
+
+২০০১
+উলাহ্‌-ইয়োহান ডাল and ক্রিস্টেন নিগার্ড
+For ideas fundamental to the emergence of object oriented programming, through their design of the programming languages Simula I and Simula 67.
+
+
+২০০২
+রন রিভেস্ট, আদি শামির and লেনার্ড এডলম্যান
+For their ingenious contribution for making public-key cryptography useful in practice.
+
+
+২০০৩
+এলান কে
+For pioneering many of the ideas at the root of contemporary object-oriented programming languages, leading the team that developed Smalltalk, and for fundamental contributions to personal computing.
+
+
+২০০৪
+ভিন্টন সার্ফ এবং রবার্ট কান
+For pioneering work on internetworking, including the design and implementation of the Internet's basic communications protocols, TCP/IP, and for inspired leadership in networking.
+
+
+২০০৫
+পিটার নাউর
+For fundamental contributions to programming language design and the definition of Algol 60, to compiler design, and to the art and practice of computer programming.
+
+
+২০০৬
+ফ্রান্সিস এলিজাবেথ অ্যালেন
+For pioneering contributions to the theory and practice of optimizing compiler techniques that laid the foundation for modern optimizing compilers and automatic parallel execution.
+
+
+২০০৭
+এডমুন্ড এম. ক্লার্ক,
+আর্নেস্ট অ্যালেন এমারসন এবং
+যোসেফ সিফাকিস
+For [their roles] in developing Model-Checking into a highly effective verification technology, widely adopted in the hardware and software industries.
+
+
+২০০৮
+বারবারা লিসকভ
+For contributions to practical and theoretical foundations of programming language and system design, especially related to data abstraction, fault tolerance, and distributed computing.
+
+
+২০০৯
+চার্লস পি. থ্যাকার
+For his pioneering design and realization of the Alto, the first modern personal computer, and in addition for his contributions to the Ethernet and the Tablet PC.
+
+
+২০১০
+লেইসলী গ্যাব্রিয়েল ভ্যালিয়েন্ট
+For transformative contributions to the theory of computation, including the theory of probably approximately correct (PAC) learning, the complexity of enumeration and of algebraic computation, and the theory of parallel and distributed computing.
+
+
+২০১১
+  জুডে পার্ল
+For fundamental contributions to artificial intelligence through the development of a calculus for probabilistic and causal reasoning.
+
+
+২০১২
+  সিলভিও মিকালি
+  শফি গোল্ডওয়েসার
+For transformative work that laid the complexity-theoretic foundations for the science of cryptography and in the process pioneered new methods for efficient verification of mathematical proofs in complexity theory.
+
+
+References
+
+↑ 
+↑ । ACM। উদ্ধৃতি টেমপ্লেট ইংরেজি প্যারামিটার ব্যবহার করেছে (link)
+↑ । ACM। উদ্ধৃতি টেমপ্লেট ইংরেজি প্যারামিটার ব্যবহার করেছে (link)
+
+
+
+এই নিবন্ধটি অসম্পূর্ণ। আপনি চাইলে  উইকিপিডিয়াকে সাহায্য করতে পারেন।
+
+
+দে
+আ
+
+
+
+
+
+
+
+
+
+

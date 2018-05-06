@@ -1,0 +1,484 @@
+
+পুরকৌশল ও স্থাপত্যবিদ্যায়, নির্মাণ বলতে এমন একটি প্রক্রিয়া বোঝায় যার মাধ্যমে কোন একটি কাঠামো তৈরী বা জোড়া লাগানো হয়। নির্মাণ মূলত কোন একক কাজ নয় বরং অনেকগুলো কাজের সমষ্টি। সাধারণত একজন প্রকল্প পরিচালক কাজটি পরিচালনা করেন এবং নির্মাণ ব্যবস্থাপক, নকশা বা ডিজাইন ব্যবস্থাপক, প্রকৌশলী, নির্মাণ প্রকোশলী এবং প্রকল্প প্রকৌশলী এর তত্ত্বাবধানে বিভিন্ন অংশের কাজ সম্পাদন করা হয়।
+যেকোন প্রকল্প সফল করার জন্য কার্যকর পরিকল্পনা খুবই প্রয়োজনীয়। যেকোন কাঠামো নকশা ও তৈরী করার সময় পরিবেশের উপর এর প্রভাব, বিভিন্ন কাজের সময় নির্ধারণ, বাজেট নির্ধারণ, নির্মাণস্থলের নিরাপত্তা, নির্মাণ উপকরণাদীর প্রাপ্যতা, সরবরাহ, নির্মাণের কারণে জনগণের অসুবিধা এসব বিষয় বিবেচনা করতে হয়।
+টেমপ্লেট:Construction industry by country
+
+
+
+
+
+
+দে
+
+
+
+প্রযুক্তি
+
+
+
+
+
+
+প্রযুক্তির রুপরেখা
+ফলিত বিজ্ঞানের রুপরেখা
+
+
+
+
+
+ক্ষেত্রসমূহ
+
+
+
+
+কৃষিকার্য
+
+
+
+Agricultural engineering
+Aquaculture
+মাৎস্যবিদ্যা
+Food chemistry
+Food engineering
+Food microbiology
+Food technology
+GURT
+ICT
+পুষ্টি
+
+
+
+
+
+Biomedical
+
+
+
+জৈব তথ্যবিজ্ঞান
+Biological engineering
+Biomechatronics
+Biomedical engineering
+জৈবপ্রযুক্তি
+Cheminformatics
+Genetic engineering
+Healthcare science
+Medical research
+Medical technology
+Nanomedicine
+স্নায়ুবিজ্ঞান
+Neurotechnology
+ফার্মাকোলজি
+Reproductive technology
+Tissue engineering
+
+
+
+
+
+ভবন এবং
+নির্মাণ
+
+
+
+Acoustical engineering
+Architectural engineering
+Building services engineering
+পুরকৌশল
+Construction engineering
+Domestic technology
+Facade engineering
+Fire protection engineering
+Safety engineering
+Sanitary engineering
+Structural engineering
+
+
+
+
+
+শিক্ষাবিষয়ক
+
+
+
+Educational software
+Digital technologies in education
+ICT in education
+Impact
+Multimedia learning
+Virtual campus
+Virtual education
+
+
+
+
+
+শক্তি
+
+
+
+নিউক্লিয় প্রকৌশল
+নিউক্লিয় প্রযুক্তি
+Petroleum engineering
+Soft energy technology
+
+
+
+
+
+পরিবেশগত
+
+
+
+Clean technology
+Clean coal technology
+Ecological design
+Ecological engineering
+Ecotechnology
+Environmental engineering
+Environmental engineering science
+Green building
+Green nanotechnology
+Landscape engineering
+নবায়নযোগ্য শক্তি
+Sustainable design
+Sustainable engineering
+
+
+
+
+
+শিল্পকৌশল
+
+
+
+Automation
+Business informatics
+Engineering management
+Enterprise engineering
+Financial engineering
+Industrial biotechnology
+Industrial engineering
+ধাতুবিদ্যা
+মাইনিং প্রকৌশল
+Productivity improving technologies
+Research and development
+
+
+
+
+
+আইটি এবং যোগাযোগ
+
+
+
+কৃত্রিম বুদ্ধিমত্তা
+Broadcast engineering
+কম্পিউটার প্রকৌশল
+কম্পিউটার বিজ্ঞান
+তথ্য প্রযুক্তি
+Music technology
+Ontology engineering
+আরএফ প্রকৌশল
+সফটওয়্যার ইঞ্জিনিয়ারিং
+Telecommunications engineering
+Visual technology
+Web engineering
+
+
+
+
+
+সামরিক
+
+
+
+Army engineering maintenance
+Electronic warfare
+Military communications
+Military engineering
+Stealth technology
+
+
+
+
+
+পরিবহন
+
+
+
+Aerospace engineering
+Automotive engineering
+Naval architecture
+মহাকাশ প্রযুক্তি
+Traffic engineering
+Transport engineering
+
+
+
+
+
+অন্যান্য ফলিত বিজ্ঞানসমূহ
+
+
+
+Cryogenics
+Electro-optics
+ইলেকট্রনিক্স
+Engineering geology
+প্রকৌশল পদার্থবিজ্ঞান
+Hydraulics
+বস্তুবিজ্ঞান
+Microfabrication
+Nanoengineering
+
+
+
+
+
+অন্যান্য প্রকৌশল ক্ষেত্রসমূহ
+
+
+
+Audio
+Biochemical
+Ceramic
+রাসায়নিক
+Polymer
+Control
+বৈদ্যুতিক
+ইলেকট্রনিক
+Entertainment
+Geotechnical
+Hydraulic
+যান্ত্রিক
+ম্যাকাট্রনিক্স
+Optical
+Protein
+Quantum
+রোবটবিজ্ঞান
+
+Animatronics
+
+
+Systems
+
+
+
+
+
+
+
+
+উপাদান
+
+
+
+Infrastructure
+আবিষ্কার
+
+Timeline
+
+
+জ্ঞান
+Machine
+Skill
+
+Craft
+
+
+Tool
+
+Gadget
+
+
+
+
+
+
+
+মানদণ্ড
+
+
+
+Femtotechnology
+Picotechnology
+ন্যানোপ্রযুক্তি
+মাইক্রোপ্রযুক্তি
+Macro-engineering
+Megascale engineering
+
+
+
+
+
+ইতিহাস
+
+
+
+Prehistoric technology
+Neolithic Revolution
+Ancient technology
+Medieval technology
+Renaissance technology
+শিল্প বিপ্লব
+
+Second
+
+
+Jet Age
+Digital Revolution
+Information Age
+
+
+
+
+
+তত্ত্ব এবং
+ধারণাসমূহ
+
+
+
+Appropriate technology
+Critique of technology
+Diffusion of innovations
+Disruptive innovation
+Dual-use technology
+Ephemeralization
+Ethics of technology
+High tech
+Hype cycle
+Inevitability thesis
+Low-technology
+Mature technology
+Philosophy of technology
+Strategy of Technology
+Technicism
+Techno-progressivism
+Technocapitalism
+Technocentrism
+Technocracy
+Technocriticism
+Technoetic
+Technoethics
+Technogaianism
+Technological alliance
+Technological apartheid
+Technological change
+Technological convergence
+Technological determinism
+Technological escalation
+Technological evolution
+Technological fix
+Technological innovation system
+Technological momentum
+Technological nationalism
+Technological paradigm
+Technological rationality
+Technological revival
+Technological revolution
+Technological self-efficacy
+Technological singularity
+
+Singularitarianism
+
+
+Technological somnambulism
+Technological transitions
+Technological unemployment
+Technological utopianism
+Technology lifecycle
+
+Technology acceptance model
+Technology adoption lifecycle
+
+
+Technomancy
+Technorealism
+Technoromanticism
+Technoscience
+Transhumanism
+
+
+
+
+
+অন্যান্য
+
+
+
+Emerging technologies
+
+List
+
+
+Fictional technology
+Technopaganism
+High-technology business districts
+Kardashev scale
+List of technologies
+Science, technology and society
+
+Technology dynamics
+
+
+Science and technology
+
+Science and technology by country
+
+
+STEM fields
+
+Pre-STEM
+women
+
+
+STEAM fields
+Technology alignment
+Technology assessment
+Technology brokering
+Technology companies
+Technology demonstration
+Technology education
+
+Technical universities and colleges
+
+
+Technology evangelist
+Technology fusion
+Technology governance
+Technology integration
+Technology journalism
+Technology management
+Technology policy
+Technology shock
+Technology strategy
+Technology and society
+Technology transfer
+Technophilia
+Technophobia
+Technoself
+Technosignature
+Technostress
+
+
+
+
+
+
+
+
+ বই
+ বিষয়শ্রেণী
+ কমনস
+ প্রবেশদ্বার
+ উইকিউক্তি
+
+
+
+
+
+
+
+
+
+

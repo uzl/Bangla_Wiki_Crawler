@@ -1,0 +1,406 @@
+
+
+
+
+
+এই নিবন্ধটিতে কোনো উৎস বা তথ্যসূত্র উদ্ধৃত করা হয়নি। দয়া করে উপযুক্ত নির্ভরযোগ্য তথ্যসূত্র থেকে উৎস প্রদান করে  সাহায্য করুন। (সাহায্যের জন্য দেখুন: যাচাইযোগ্যতা) নিবন্ধের যেসব অংশে সঠিক তথ্যসূত্রের উল্লেখ নেই, সেগুলি যেকোনো মুহূর্তে সরিয়ে ফেলা হতে পারে। (মার্চ ২০১০)
+
+
+
+আন্তর্জাতিক গ্র্যান্ডমাস্টার দাবা খেলার সর্বোচ্চ খেতাব যা দাবা খেলার আন্তর্জাতিক সংগঠন ফিদে কর্তৃক দেওয়া হয়। বিশ্ব চ্যাম্পিয়ন হওয়া ছাড়া গ্র্যান্ডমাস্টার হল একমাত্র খেতাব যা একজন দাবা খেলোয়াড় অর্জন করতে পারে। একবার অর্জন করার পর আজীবন একজন খেলোয়াড় এই পদবীর দাবিদার থাকেন। দাবার পরিভাষায় সংক্ষেপে এই পদবীকে বলা হয় জিএম। (এছাড়া দাবার অন্যান্য পদবী বা খেতাব সংক্ষেপিত হয় এইভাবে, এফএম অর্থ ফিদে মাস্টার; সিএম অর্থ ক্যান্ডিডেট মাস্টার, আইজিএম অর্থ ইন্টারন্যাশনাল গ্র্যান্ডমাস্টার।)
+গ্র্যান্ডমাস্টার, ‌আন্তর্জাতিক মাস্টার এবং ফিদে মাস্টার পদবী মহিলা ও পুরুষ উভয়েই অর্জন করতে পারে। ১৯৭৮ সালে মহিলা দাবার বিশ্ব চ্যাম্পিয়ন, নোনা গাপ্রিন্দাশভিলিকে ফিদের বিশেষ বিবেচনায় গ্রান্ডমাস্টার খেতাব দেয়া হয়।
+
+
+এই নিবন্ধটি অসম্পূর্ণ। আপনি চাইলে  উইকিপিডিয়াকে সাহায্য করতে পারেন।
+
+
+দে
+আ
+
+
+
+
+
+
+গ্রন্থপঞ্জী
+
+Sunnucks, Anne (১৯৭০), The Encyclopaedia of Chess, St. Martins Press, আইএসবিএন 978-0-7091-4697-1 উদ্ধৃতি টেমপ্লেট ইংরেজি প্যারামিটার ব্যবহার করেছে (link)
+
+বহিঃসংযোগ
+
+ from the FIDE Handbook
+ FIDE
+
+
+
+
+
+
+
+দে
+
+
+
+দাবা
+
+
+
+ক্রমবিকাশ
+
+
+
+Chess theory
+Chess titles
+
+গ্র্যান্ডমাস্টার
+List of Grandmasters
+Grandmasters by country
+
+
+Computer chess
+
+matches
+engines
+software
+
+
+Correspondence chess
+ফিদে
+History
+
+Timeline
+
+
+Problems/Compositions
+Rating system
+
+World rankings
+Norms
+
+
+Tournaments
+
+অলিম্পিয়াড
+list
+
+
+Variants
+বিশ্ব চ্যাম্পিয়নশীপ
+
+Development
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+
+
+World records
+
+
+
+
+
+সরঞ্জামাদি
+
+
+
+Chessboard
+Chess box
+Chess set
+
+রাজা
+Queen
+Rook
+Bishop
+Knight
+Pawn
+
+
+Chess clock
+Chess table
+
+
+
+
+
+নিয়ম-কানুন
+
+
+
+Castling
+Check
+Checkmate
+Draw
+
+By agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+
+
+En passant
+Pawn promotion
+Time control
+
+Fast chess
+
+
+Touch-move rule
+
+
+
+
+
+পরিভাষা
+
+
+
+Blunder
+Chess notation
+
+Algebraic
+Descriptive
+PGN
+Annotation symbols
+Symbols in Unicode
+
+
+Fianchetto
+Gambit
+Key square
+King walk
+Pawns
+
+Backward
+Connected
+Doubled
+Isolated
+Maróczy Bind
+Passed
+
+
+Open file
+
+Half-open file
+
+
+Outpost
+School
+
+Hypermodern
+Romantic
+
+
+Swindle
+Tempo
+Transposition
+
+
+
+
+
+ট্যাকটিক্স
+
+
+
+Battery
+
+Alekhine's gun
+
+
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pin
+Sacrifice
+Skewer
+Windmill
+X-ray
+Zwischenzug
+
+
+
+
+
+কৌশল
+
+
+
+Artificial castling
+Compensation
+Exchange
+
+The exchange
+
+
+Initiative
+
+First-move advantage
+
+
+Middlegame
+Pawn storm
+Pawn structure
+Piece values
+Prophylaxis
+
+
+
+
+
+শুরু
+
+
+
+List of openings
+
+theory table
+
+
+Flank opening
+
+English Opening
+
+
+King's Pawn Game
+
+Caro–Kann Defence
+French Defence
+Open Game
+
+Italian Game
+King's Gambit
+Ruy Lopez
+
+
+Pirc Defence
+
+
+Sicilian Defence
+
+Najdorf
+Dragon
+
+Accelerated Dragon
+
+
+Alapin
+Scheveningen
+
+
+Queen's Pawn Game
+
+Benoni Defence
+Dutch Defence
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Queen's Indian Defence
+Queen's Gambit
+
+Accepted
+Declined
+Slav Defence
+
+
+
+
+Quick checkmates
+
+Fool's mate
+Scholar's mate
+
+
+
+
+
+
+
+শেষ
+
+
+
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+
+Lucena position
+Philidor position
+
+
+Strategy
+
+Fortress
+Opposition
+Tarrasch rule
+Triangulation
+Undermining
+Zugzwang
+
+
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+
+
+
+
+
+সম্পর্কিত
+
+
+
+Cheating in chess
+Chess aesthetics
+Chess in the arts
+
+in early literature
+
+
+Chess books
+
+Opening books
+Endgame literature
+
+
+Chess club
+Chess composer
+Chess in Europe
+
+Göttingen manuscript
+
+
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Chess prodigy
+Glossary
+Notable games
+Simultaneous exhibition
+Staunton chess set
+Top player comparison
+
+
+
+
+
+
+
+
+
+

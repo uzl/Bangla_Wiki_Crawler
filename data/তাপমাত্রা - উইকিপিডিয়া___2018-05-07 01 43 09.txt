@@ -1,0 +1,497 @@
+তাপমাত্রা বা উষ্ণতা হচ্ছে কোন বস্তু কতটা গরম (উষ্ণ) বা ঠাণ্ডা (শীতল) তার পরিমাপ এবং তাপশক্তি পরিবহণ দ্বারা সবসময় উষ্ণতর বস্তু থেকে শীতলতর বস্তুতে প্রবাহিত হয়। উষ্ণতা কোন বস্তুর মোট তাপের পরিমাপ নয়, তাপের "মাত্রা"র পরমাপ। এই মাত্রা বস্তুর কোন অংশের স্থানীয় তাপজনিত আণবিক চাঞ্চল্যের পরিমাণের উপর নির্ভর করে।
+পরম তাপমাত্রা এমন একটি উষ্ণতা সূচক যা বস্তুর তাপজনিত গতিশক্তির একটি পরিচায়ক। এ মহাবিশ্বে যা কিছু আছে তাকে দুভাগে ভাগ করা যায়। একটি ভাগে আছেপদার্থ যাদের ওজন বা ভর আছে, জায়গা দখল করে এবং বলপ্রয়োগে বাঁধা দেয়। অন্যভাগে আছে শক্তি। এদের কোন ওজন নেই, জায়গা দখল করে না বা বল প্রয়োগে কোন বাঁধা দেয় না। এদেরকে আমরা ইন্দ্রিয় দ্বারা অনুভব করতে পারি। সুতরাং তাপ এমন এক ধরণের শক্তি। পঞ্চ ইন্দ্রিয়ের মধ্যে তাপকে কেবল ত্বক দ্বারা অনুভব করা যায়।
+
+স্কেল
+তাপমাত্রার তিনটি স্কেল ব্যবহার হয়ে থাকে। সবচেয়ে বেশি ব্যবহার হয় সেলসিয়াস স্কেল। কিন্তু অনেকসময় ফারেনহাইট স্কেলও ব্যবহার হয়। আর পদার্থবিজ্ঞানে বেশি ব্যবহার হয় কেলভিন স্কেল। পরম শুণ্য তাপমাত্রা থেকে কেলভিন স্কেল শুরু হয়।
+১ কেলভিন= ১ ডিগ্রি সেলসিয়াস হলেও সেলসিয়াস স্কেল এর শুরু ২৭৩ ডিগ্রি কেলভিন থেকে। ২৭৩° কেলভিন এ পানি জমে বরফ হয়, তাই একে সেলসিয়াস স্কেলের শুরু (০° সেলসিয়াস) ধরা হয়।
+
+
+
+পদার্থবিজ্ঞান-সম্পর্কিত বিষয়ক এই নিবন্ধটি অসম্পূর্ণ। আপনি চাইলে  উইকিপিডিয়াকে সাহায্য করতে পারেন।
+
+
+দে
+আ
+
+
+
+
+
+
+
+
+
+
+পদার্থবিজ্ঞানের উপশাখাসমূহ
+
+
+দে
+আ
+
+
+
+
+
+
+
+
+ফলিত পদার্থবিজ্ঞান · পারমাণবিক পদার্থবিজ্ঞান · আলোক পদার্থবিজ্ঞান · চিরায়ত বলবিদ্যা · ঘনীভূত পদার্থ পদার্থবিজ্ঞান · পরম্পরা বলবিদ্যা · তড়িচ্চুম্বকত্ব · বিশেষ আপেক্ষিকতা · সাধারণ আপেক্ষিকতা · কণা পদার্থবিজ্ঞান · কোয়ান্টাম ক্ষেত্র তত্ত্ব · কোয়ান্টাম বলবিজ্ঞান · পরিসাংখ্যিক বলবিদ্যা · তাপগতিবিজ্ঞান
+
+
+
+
+
+Science
+
+
+Part of a series on
+
+
+
+
+
+Formal
+
+
+
+
+Logic
+Mathematics
+
+
+
+Mathematical logic
+Mathematical statistics
+Theoretical computer science
+
+
+
+
+
+
+
+
+
+Physical
+
+
+
+
+Chemistry
+
+
+
+
+
+Acid-base
+Analytical
+Environmental
+Inorganic
+Nuclear
+Organic
+Physical
+Solid-state
+Supramolecular
+Sustainable ("green")
+Theoretical
+
+
+
+
+Astrochemistry
+Biochemistry
+Crystallography
+Food chemistry
+Geochemistry
+Materials science
+Molecular physics
+Photochemistry
+Radiochemistry
+Stereochemistry
+Surface science
+
+
+
+
+
+Physics
+
+
+
+
+
+Classical
+Modern
+Applied
+
+
+
+
+Experimental
+Theoretical
+
+
+
+Computational
+
+
+
+Atomic
+Condensed matter
+
+
+
+
+Mechanics
+
+
+(classical
+continuum
+fluid
+solid)
+
+
+
+
+
+
+
+Molecular
+Nuclear
+Particle
+Plasma
+Quantum field theory
+Quantum mechanics (introduction)
+
+
+
+
+Special relativity
+General relativity
+Rheology
+String theory
+Thermodynamics
+
+
+
+
+
+Earth sciences
+
+
+
+
+
+Climatology
+Ecology
+Edaphology
+Environmental science
+Geodesy
+Geography (physical)
+Geology
+Geomorphology
+Geophysics
+Glaciology
+Hydrology
+Limnology
+Meteorology
+Oceanography
+Paleoclimatology
+Paleoecology
+Palynology
+Pedology
+Volcanology
+
+
+
+
+
+Space science
+
+
+
+
+
+Astronomy
+Astrophysics
+Cosmology
+Galactic astronomy
+Planetary geology
+Planetary science
+Stellar astronomy
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life
+
+
+
+
+Biology
+
+
+
+
+
+Anatomy
+Astrobiology
+Biochemistry
+Biogeography
+Biological engineering
+Biophysics
+Behavioral neuroscience
+Biotechnology
+Botany
+Cell biology
+Conservation biology
+Cryobiology
+Developmental biology
+Ecology
+Ethnobiology
+Ethology
+Evolutionary biology (introduction)
+Genetics (introduction)
+Gerontology
+Immunology
+Limnology
+Marine biology
+Microbiology
+Molecular biology
+Neuroscience
+Paleontology
+Parasitology
+Physiology
+Radiobiology
+Soil biology
+Sociobiology
+Systematics
+Toxicology
+Zoology
+
+
+
+
+
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+Anthropology
+Archaeology
+Criminology
+Demography
+Economics
+Geography (human)
+History
+International relations
+Law
+Linguistics
+Pedagogy
+Political science
+Psychology
+Science education
+Sociology
+
+
+
+
+
+
+
+
+
+
+Applied
+
+
+
+
+Engineering
+
+
+
+
+
+Aerospace
+Agricultural
+Biological
+Biomedical
+Chemical
+Civil
+Computer science / engineering
+
+
+
+
+Electrical
+Fire protection
+Genetic
+Industrial
+Mechanical
+Military
+Mining
+Nuclear
+Operations research
+Robotics
+Software
+Web
+
+
+
+
+
+Healthcare
+
+
+
+
+
+Medicine
+Veterinary
+Dentistry
+Midwifery
+Epidemiology
+Pharmacy
+Nursing
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interdisciplinary
+
+
+
+
+Applied physics
+Artificial intelligence
+Bioethics
+Bioinformatics
+Biomedical engineering
+Biostatistics
+Cognitive science
+Complex systems
+Computational linguistics
+Cultural studies
+Cybernetics
+Environmental science
+Environmental social science
+Environmental studies
+Ethnic studies
+Evolutionary psychology
+
+
+
+
+Forensics
+Forestry
+Library science
+
+
+
+Mathematical / theoretical biology
+
+
+
+Mathematical physics
+Military science
+Network science
+Neural engineering
+Neuroscience
+Science studies
+Scientific modelling
+Semiotics
+Sociobiology
+Statistics
+Systems science
+Urban planning
+Web science
+
+
+
+
+
+
+
+
+
+
+
+
+
+Philosophy
+History
+
+
+
+
+
+
+
+Basic research
+Citizen science
+Fringe science
+Protoscience
+Pseudoscience
+Freedom
+Policy
+Funding
+Method
+Technoscience
+
+
+
+
+
+
+
+
+
+Outline
+Portal
+Category
+
+
+
+
+
+
+
+দে
+
+
+
+
+
+
+
+
+
+

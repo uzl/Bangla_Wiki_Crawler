@@ -1,0 +1,324 @@
+এক বছর বলতে সূর্যকে ঘিরে কক্ষপথে পৃথিবী ঘোরার সময় একই ঘটনা দুইবার ঘটার মধ্যে সময়ের ব্যবধানকে বোঝায়। যেকোন গ্রহের ক্ষেত্রেই এই সংজ্ঞা প্রযোজ্য। যেমন - মাঙ্গলিক বছর বলতে মঙ্গল গ্রহের জন্য এক বছরকে বোঝায়।
+
+
+
+পরিচ্ছেদসমূহ
+
+
+১ প্রতীক
+
+১.১ প্রতীক a
+১.২ এসআই উপসর্গ গুণক
+১.৩ প্রতীকসমূহ y এবং yr
+
+
+২ তথ্যসূত্র
+
+
+
+প্রতীক
+প্রতীক a
+এসআই উপসর্গ গুণক
+Ka বা কিলোবর্ষ (kiloannus জন্য), এক হাজার (১০৩) বছর সমান সময়ের একটি একক।
+Ma বা মেগাবর্ষ (megaannus-এর জন্য), দশ লক্ষ (১০৬) বছর সমান সময়ের একটি একক।
+Ga বা গিগাবর্ষ (gigaannus-এর জন্য), একশো কোটি (১০৯) বছর সমান সময়ের একটি একক।
+Ta বা টেরাবর্ষ (teraannus-এর জন্য), এক লক্ষ কোটি (১০১২) বছর সমান সময়ের একটি একক।
+Pa বা পিটাবর্ষ (petaannus-এর জন্য), দশ কোটি কোটি (১০১৫) বছর সমান সময়ের একটি একক।
+Ea বা এক্সাবর্ষ (exaannus-এর জন্য), দশ হাজার কোটি কোটি (১০১৮) বছর সমান সময়ের একটি একক।
+প্রতীকসমূহ y এবং yr
+
+
+এসআই সংক্ষেপ নয়
+এসআই-পূর্বনির্ধারিত সমতুল্য
+মাত্রার ক্রম
+
+
+kyr
+ka
+
+
+হাজার বছর
+
+
+
+
+myr
+Ma
+
+
+মিলিয়ন বছর
+
+
+
+
+byr
+Ga
+
+
+বিলিয়ন বছর (হাজার মিলিয়ন বছর)
+
+
+
+
+kya বা tya
+"ka ago"
+
+মূল নিবন্ধগুলি: 1 E10 s, 1 E11 s এবং 1 E12 s
+
+হোমো স্যাপিয়েন্সের আবির্ভাব, আনুমানিক ২০০ kya
+Out-of-Africa migration, আনুমানিক ৬০ kya
+সর্বশেষ বরফতুল্য সর্বোচ্চ, আনুমানিক ২০ kya
+নিওলিথিক বিপ্লব, আনুমানিক ১০ kya
+
+
+
+
+mya
+"Ma ago"
+
+মূল নিবন্ধগুলি: 1 E13 s, 1 E14 s এবং 1 E15 s
+
+প্যালিওলিথিক, ৫.৩ থেকে ২.৬ mya
+
+সর্বশেষ ভূচৌম্বকীয় বিপরীতমুখী ছিল ০.৭৮ mya
+(Eemian Stage) বরফ যুগ শুরু হয়েছে ০.১৩ mya
+
+
+হলোসিন শুরু হয়েছে ০.০১ mya
+
+
+
+
+bya বা gya
+"Ga ago"
+
+মূল নিবন্ধগুলি: 1 E16 s, 1 E17 s এবং 1 E18 s
+
+প্রাচীনতম সুকেন্দ্রিক, ২ bya
+পৃথিবীর বয়স, ৪.৫ bya
+মহা বিস্ফোরণ তত্ত্ব, ১৩.৮ bya
+
+
+
+
+তথ্যসূত্র
+
+
+↑ Bradford M. Clement (এপ্রিল ৮, ২০০৪)। "Dependence of the duration of geomagnetic polarity reversals on site latitude"। Nature। 428 (6983): 637–40। doi:। PMID । বিবকোড:। উদ্ধৃতি টেমপ্লেট ইংরেজি প্যারামিটার ব্যবহার করেছে (link)
+
+
+
+
+
+
+
+
+দে
+
+
+
+সময়ের মান ও পরিমাপ
+
+
+
+প্রধান বিষয়
+
+
+
+সময়
+Chronometry
+Orders of magnitude
+Metrology
+
+
+
+
+
+আন্তর্জাতিক মান
+
+
+
+ইউটিসি
+UTC offset
+ইউটি
+Δটি
+DUT1
+IERS
+আইএসও ৩১-১
+আইএসও ৮৬০১
+আন্তর্জাতিক আণবিক সময়
+12-hour clock
+24-hour clock
+Barycentric Coordinate Time
+Civil time
+দিবালোক সংরক্ষণ সময়
+Geocentric Coordinate Time
+আন্তর্জাতিক তারিখ রেখা
+Leap second
+সৌর সময়
+Terrestrial Time
+সময় অঞ্চল
+
+
+
+
+
+অপ্রচলিত মান
+
+
+
+Barycentric Dynamical Time
+Ephemeris time
+গ্রীনিচ মান সময়
+মূল মধ্যরেখা
+
+
+
+
+
+পদার্থবিজ্ঞানের সময়
+
+
+
+Absolute time and space
+স্থান-কাল
+Chronon
+Continuous time
+Coordinate time
+Cosmological decade
+Discrete time
+Planck epoch
+প্লাংকের সময়
+Proper time
+আপেক্ষিকতা তত্ত্ব
+Time dilation
+Gravitational time dilation
+Time domain
+T-symmetry
+
+
+
+
+
+ঘড়ি নির্মাণবিদ্যা
+
+
+
+ঘড়ি
+Astrarium
+আণবিক ঘড়ি
+Complication
+Equation of time
+History of timekeeping devices
+Hourglass
+Marine chronometer
+Marine sandglass
+Radio clock
+Sundial
+Watch
+জল ঘড়ি
+
+
+
+
+
+পঞ্জিকা
+
+
+
+Astronomical
+Dominical letter
+Epact
+বিষুব
+গ্রেগরীয়
+হিব্রু
+হিন্দু
+Intercalation
+ইসলামিক
+জুলীয়
+অধিবর্ষ
+Lunar
+Lunisolar
+Seven-day week
+Solar
+Solstice
+Tropical year
+Weekday determination
+Weekday names
+
+
+
+
+
+প্রত্নতত্ত্ব এবং ভূবিদ্যা
+
+
+
+Dating methodologies
+ভূতাত্ত্বিক সময়
+ইন্টারন্যাশনাল কমিশন অন স্ট্র্যাটিগ্রাফি
+
+
+
+
+
+জ্যোতির্বিদ্যা কালপঞ্জি
+
+
+
+Galactic year
+Nuclear time scale
+Precession
+Sidereal time
+
+
+
+
+
+সময়ের একক
+
+
+
+শতাব্দী
+দিন
+দশক
+পক্ষ
+ঘন্টা
+Jiffy
+Lustrum
+Millennium
+মিনিট
+মাস
+Paksha
+Saeculum
+সেকেন্ড
+Shake
+Tide
+সপ্তাহ
+বছর
+
+
+
+
+
+সম্পর্কিত বিষয়
+
+
+
+Chronology
+Duration
+Mental chronometry
+Metric time
+System time
+Time value of money
+Timekeeper
+
+
+
+
+
+
+
+
+
+

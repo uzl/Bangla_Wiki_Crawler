@@ -1,0 +1,391 @@
+সমধর্মী মৌলসমূহের রাসায়নিক শ্রেণী হল IUPAC এর নির্ধারিত পদ্ধতিতে মৌলিক পদার্থসমূহ নামকরনের মাধ্যমে শ্রেণীবিভাগেরএকটি পদ্ধতি।
+IUPAC এর অনুমোদিত নামসমূহ:
+
+ক্ষার ধাতু - গ্রুপ ১ এর ধাতুসমূহ : Li, Na, K, Rb, Cs, Fr.
+মৃৎ ক্ষার ধাতু - গ্রুপ ২ এর ধাতুসমূহ: Be, Mg, Ca, Sr, Ba, Ra.
+Pnictogens - গ্রুপ ১৫ এর মৌলসমূহ: N, P, As, Sb, Bi.
+Chalcogens - গ্রুপ ১৬ এর মৌলসমূহ: O, S, Se, Te, Po.
+হ্যালোজেন - গ্রুপ ১৭ এর মৌলসমূহ: F, Cl, Br, I, At.
+নিষ্ক্রিয় ধাতু - গ্রুপ ১৮ এর মৌলসমূহ: He, Ne, Ar, Kr, Xe, Rn.
+Lanthanoids - ৫৭-৭১ মৌলসমূহ: La, Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu.
+Actinoids - ৮৫-১০৩ মৌলসমূহ: Ac, Th, Pa, U, Np, Pu, Am, Cm, Bk, Cf, Es, Fm, Md, No, Lr.
+Rare earth elements - Sc, Y, and the lanthanoids.
+অবস্থান্তর ধাতু - গ্রুপ ৩-১২ মৌলসমূহ।
+
+উইকিপিডিয়া uses the below hybrid system in its periodic table- and chemical element -related articles:
+
+Same as the IUPAC system above for Alkali metals, Alkaline earth metals, Halogens, Noble gases, Lanthanoids, Actinoids, and Transition metals.
+Rare earth elements, Pnictogens and Chalcogens are not used.
+Leftover elements are grouped as:
+
+'Other metals' - Metals that are not otherwise categorized: Al, Ga, In, Sn, Tl, Pb, Bi
+Metalloids - B, Si, Ge, As, Sb, Te, Po
+'Other non-metals' - Non-metals that are not otherwise categorized: - C, N, O, P, S, Se, H
+
+
+
+Many other names for groups of elements are in common use, and yet others have been used throughout history. Some examples include:
+
+Precious metal - Variously-defined group of non-radioactive metals of high economical value
+Platinum group - Ru, Rh, Pd, Os, Ir, Pt.
+Noble metal - Variously-defined group of metals that are generally resistant to corrosion. Usually includes Ag, Au, and the platinum-group metals.
+Coinage metals - Cu, Ag, Au.
+Heavy metals - Variously-defined group of metals, on the base of their density, atomic number, or toxicity.
+Native metals - Metals that occur pure in nature, including the noble metals and others such as Sn and Pb.
+Post-transition metals - Metals with complete d-subshells to the right of the three transition elements: Zn, Ga, Cd, In, Sn, Hg, Tl, Pb, Bi
+Poor metal - Sometimes used to refer to the metals of the p block: Al, Ga, In, Tl, Sn, Pb, Bi.
+Earth metal - Old historic term, usually referred to the metals of groups 3 and 13, although sometimes others such as beryllium and chromium are included as well.
+Transuranium elements - Elements with atomic number greater than 92.
+Transactinide elements - Elements after the actinides (atomic number greater than 103).
+Transplutonium elements - Elements with atomic number greater than 94.
+Minor actinides - Actinides found in nuclear fuel, other that U and Pu: Np, Am, Cm.
+Superactinides - Hypothetical series of elements 121 to 153, which includes a predicted "g block" of the periodic table.
+Heavy atom - term used in computational chemistry to refer to any element other than hydrogen and helium.
+
+Any periodic table group can also be used in this sense. Sometimes the group number is used, as in group 14 element, and sometimes the name of the first element in the group is used, as in carbon group or carbon family.
+References
+
+↑  (online draft of an updated version of the "Red Book" IR 3-6.2)
+
+/>
+
+
+
+
+
+
+দে
+
+
+
+পর্যায় সারণী
+
+
+
+পর্যায় সারণী ফর্ম
+
+
+
+
+আদর্শ
+
+
+
+১৮-স্তম্ভ
+18-column, large cells
+32-column, large cells
+
+
+
+
+
+বিকল্প
+
+
+
+বিকল্প
+Janet's left step table
+
+
+
+
+
+সম্প্রসারিত
+
+
+
+৭ম পর্যায় অতিক্রম প্রসারণ
+
+Fricke model
+
+large cells
+
+
+Pyykkö model
+
+
+
+
+
+
+
+
+
+
+উপাদানসমূহের সেট
+
+
+
+
+পর্যায় সারণীর গঠন দ্বারা
+
+
+
+
+শ্রেণীসমূহ
+
+
+
+১ (ক্ষার ধাতু)
+২ (মৃৎ ক্ষার ধাতু)
+৩
+৪
+৫
+৬
+৭
+৮
+৯
+১০
+১১
+১২
+১৩
+১৪
+১৫ (নাইট্রোজেন)
+১৬ (চালকোজেন)
+১৭ (হ্যালোজেন)
+১৮ (নিষ্ক্রিয় গ্যাস)
+
+
+
+
+
+পর্যায়
+
+
+
+১
+২
+৩
+৪
+৫
+৬
+৭
+৮+
+
+Aufbau
+Fricke
+Pyykkö
+
+
+
+
+
+
+
+ব্লক
+
+
+
+এস-ব্লক
+পি-ব্লক
+ডি-ব্লক
+এফ-ব্লক
+জি-ব্লক
+আউফবাউ নীতি
+
+
+
+
+
+
+
+
+ধাতবতা দ্বারা
+
+
+
+
+ধাতুসমূহ
+
+
+
+ক্ষার ধাতুসমূহ
+মৃৎ ক্ষার ধাতুসমূহ
+ল্যান্থানাইডসমূহ
+অ্যাক্টিনাইডসমূহ
+অবস্থান্তর ধাতুসমূহ
+Post-transition metalসমূহ
+
+
+
+
+
+অপধাতুসমূহ
+
+
+
+Lists of metalloids by source
+Dividing line
+
+
+
+
+
+অধাতুসমূহ
+
+
+
+Reactive nonmetals
+নিষ্ক্রিয় গ্যাসসমূহ
+
+
+
+
+
+
+
+
+অন্যান্য সেট
+
+
+
+Nutritional elements
+Platinum-group metals (PGM)
+Rare-earth elements
+Refractory metals
+Precious metals
+Coinage metals
+Noble metal
+Heavy metals
+Native metals
+ইউরেনামোত্তর মৌলসমূহ
+Transactinide elements
+Major actinides
+Minor actinides
+
+
+
+
+
+
+
+
+উপাদানসমূহ
+
+
+
+
+তালিকাসমূহ
+
+
+
+By: Abundance (in humans)
+Atomic properties
+Nuclear stability
+Production
+Symbol
+
+
+
+
+
+বৈশিষ্ট্য
+
+
+
+Atomic weight
+Crystal structure
+Electron affinity
+Electron configuration
+তড়িৎ ঋণাত্মকতা
+
+Allen
+Pauling
+
+
+Goldschmidt classification
+Maximum valence
+
+
+
+
+
+তথ্য পাতাসমূহ
+
+
+
+Abundance
+Atomic radius
+Boiling point
+Critical point
+Density
+Elasticity
+Electrical resistivity
+Electron affinity
+ইলেকট্রন বিন্যাস
+Electronegativity
+Hardness
+Heat capacity
+Heat of fusion
+Heat of vaporization
+Ionization energy
+Melting point
+Oxidation state
+Speed of sound
+Thermal conductivity
+Thermal expansion coefficient
+Vapor pressure
+
+
+
+
+
+
+
+
+ইতিহাস
+
+
+
+Element discoveries
+
+Mendeleev's predictions
+
+
+Naming
+
+Etymology
+controversies
+places
+scientists
+in East Asia
+
+
+
+
+
+
+
+আরও দেখুন
+
+
+
+আইইউপিএসি
+
+nomenclature
+systematic element name
+
+
+Trivial name
+দিমিত্রি মেন্ডেলিফ
+
+
+
+
+
+
+
+
+ বই
+ বিষয়শ্রেণী
+ রসায়ন প্রবেশদ্বার
+
+
+
+
+
+
+
+
+
+

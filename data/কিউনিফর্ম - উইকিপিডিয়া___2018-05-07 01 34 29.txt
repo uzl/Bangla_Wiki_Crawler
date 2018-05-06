@@ -1,0 +1,1302 @@
+
+কিউনিফর্ম লিপি (ইংরেজি: Cuneiform script) বিশ্বের প্রাচীন লিপিগুলোর মধ্যে অন্যতম। সুমেরিয়ানরা এটি আবিস্করক।
+
+
+
+পরিচ্ছেদসমূহ
+
+
+১ বর্ণমালা
+২ আরও দেখুন
+৩ গ্রন্থপঞ্জি
+৪ তথ্যসূত্র
+৫ বহিঃসংযোগ
+
+
+
+বর্ণমালা
+নিচে কিউনিফর্ম লিপির বর্ণমালা দেখানো হলো:
+
+
+
+
+-a
+-e
+-i
+-u
+
+
+
+a 𒀀,
+á 𒀉
+
+e 𒂊,
+é 𒂍
+
+i 𒄿,
+í=IÁ 𒐊
+
+u 𒌋,
+ú 𒌑,
+ù 𒅇
+
+
+
+b-
+ba 𒁀,
+bá=PA 𒉺,
+bà=EŠ 𒂠
+
+be=BAD 𒁁,
+bé=BI 𒁉,
+bè=NI 𒉌
+
+bi 𒁉,
+bí=NE 𒉈,
+bì=PI 𒉿
+
+bu 𒁍,
+bú=KASKAL 𒆜,
+bù=PÙ 𒅤
+
+
+
+d-
+da 𒁕,
+dá=TA 𒋫
+
+de=DI 𒁲,
+dé ,
+dè=NE 𒉈
+
+di 𒁲,
+dí=TÍ 𒄭
+
+du 𒁺,
+dú=TU 𒌅,
+dù=GAG 𒆕,
+du4=TUM 𒌈
+
+
+
+g-
+ga 𒂵,
+gá 𒂷
+
+ge=GI 𒄀,
+gé=KID 𒆤,
+gè=DIŠ 𒁹
+
+gi 𒄀,
+gí=KID 𒆤,
+gì=DIŠ 𒁹,
+gi4 𒄄,
+gi5=KI 𒆠
+
+gu 𒄖,
+gú 𒄘,
+gù=KA 𒅗,
+gu4 𒄞,
+gu5=KU 𒆪,
+gu6=NAG 𒅘,
+gu7 𒅥
+
+
+
+ḫ-
+ḫa 𒄩,
+ḫá=ḪI.A 𒄭𒀀,
+ḫà=U 𒌋,
+ḫa4=ḪI 𒄭
+
+ḫe=ḪI 𒄭,
+ḫé=GAN 𒃶
+
+ḫi 𒄭,
+ḫí=GAN 𒃶
+
+ḫu 𒄷
+
+
+k-
+ka 𒅗,
+ká 𒆍,
+kà=GA 𒂵
+
+ke=KI 𒆠,
+ké=GI 𒄀
+
+ki 𒆠,
+kí=GI 𒄀
+
+ku 𒆪,
+kú=GU7 𒅥,
+kù 𒆬,
+ku4 𒆭
+
+
+
+l-
+la 𒆷,
+lá=LAL 𒇲,
+là=NU 𒉡
+
+le=LI 𒇷,
+lé=NI 𒉌
+
+li 𒇷,
+lí=NI 𒉌
+
+lu 𒇻,
+lú 𒇽
+
+
+
+m-
+ma 𒈠,
+má 𒈣
+
+me 𒈨,
+mé=MI 𒈪,
+mè 𒀞/𒅠
+
+mi 𒈪,
+mí=MUNUS 𒊩,
+mì=ME 𒈨
+
+mu 𒈬,
+mú=SAR 𒊬
+
+
+
+n-
+na 𒈾,
+ná 𒈿,
+nà=AG 𒀝,
+na4 ("NI.UD") 𒉌𒌓
+
+ne 𒉈,
+né=NI 𒉌
+
+ni 𒉌,
+ní=IM 𒉎
+
+nu 𒉡,
+nú=NÁ 𒈿
+
+
+
+p-
+pa 𒉺,
+pá=BA 𒐀
+
+pe=PI 𒉿,
+pé=BI 𒁉
+
+pi 𒉿,
+pí=BI 𒁉,
+pì=BAD 𒁁
+
+pu=BU 𒁍,
+pú=TÚL 𒇥,
+pù 𒅤
+
+
+
+r-
+ra 𒊏,
+rá=DU 𒁺
+
+re=RI 𒊑,
+ré=URU 𒌷
+
+ri 𒊑,
+rí=URU 𒌷
+
+ru 𒊒,
+rú=GAG 𒆕,
+rù=AŠ 𒀸
+
+
+
+s-
+sa 𒊓,
+sá=DI 𒁲,
+sà=ZA 𒍝,
+sa4 ("ḪU.NÁ") 𒄷𒈾
+
+se=SI 𒋛,
+sé=ZI 𒍣
+
+si 𒋛,
+sí=ZI 𒍣
+
+su 𒋢,
+sú=ZU 𒍪,
+sù=SUD 𒋤,
+su4 𒋜
+
+
+
+š-
+ša 𒊭,
+šá=NÍG 𒐼,
+šà 𒊮
+
+še 𒊺,
+šé,
+šè 𒂠
+
+ši=IGI 𒅆,
+ší=SI 𒋛
+
+šu 𒋗,
+šú 𒋙,
+šù=ŠÈ 𒂠,
+šu4=U 𒌋
+
+
+
+t-
+ta 𒋫,
+tá=DA 𒁕
+
+te 𒋼,
+té=TÍ 𒊹
+
+ti 𒋾,
+tí 𒊹,
+tì=DIM 𒁴,
+ti4=DI 𒁲
+
+tu 𒌅,
+tú=UD 𒌓,
+tù=DU 𒁺
+
+
+
+z-
+za 𒍝,
+zá=NA4 𒉌𒌓
+
+ze=ZI 𒍣,
+zé=ZÌ 𒍢
+
+zi 𒍣,
+zí 𒍢,
+zì 𒍥
+
+zu 𒍪,
+zú=KA 𒅗
+
+
+
+
+
+
+
+
+a-
+e-
+i-
+u-
+
+
+
+a 𒀀,
+á 𒀉
+
+e 𒂊,
+é 𒂍
+
+i 𒄿,
+í=IÁ 𒐊
+
+u 𒌋,
+ú 𒌑,
+ù 𒅇
+
+
+
+-b
+ab 𒀊,
+áb 𒀖
+
+eb=IB 𒅁,
+éb=TUM 𒌈
+
+ib 𒅁,
+íb=TUM 𒌈
+
+ub 𒌒,
+úb=ŠÈ 𒂠
+
+
+
+-d
+ad 𒀜,
+ád 𒄉
+
+ed=Á 𒀉
+id=Á 𒀉,
+íd=A.ENGUR 𒀀𒇉
+
+ud 𒌓,
+úd=ÁŠ 𒀾
+
+
+
+-g
+ag 𒀝,
+ág 𒉘
+
+eg=IG 𒅅,
+ég=E 𒂊
+
+ig 𒅅,
+íg=E 𒂊
+
+ug 𒊌
+
+
+-ḫ
+aḫ 𒄴,
+áḫ=ŠEŠ 𒋀
+
+eḫ=AḪ 𒄴
+iḫ=AḪ 𒄴
+uḫ=AḪ 𒄴,
+úḫ 𒌔
+
+
+
+-k
+ak=AG 𒀝
+ek=IG 𒅅
+ik=IG 𒅅
+uk=UG 𒊌
+
+
+-l
+al 𒀠,
+ál=ALAM 𒀩
+
+el 𒂖,
+él=IL 𒅋
+
+il 𒅋,
+íl 𒅍
+
+ul 𒌌,
+úl=NU 𒉡
+
+
+
+-m
+am 𒄠/𒂔,
+ám=ÁG 𒉘
+
+em=IM 𒅎
+im 𒅎,
+ím=KAŠ4 𒁽
+
+um 𒌝,
+úm=UD 𒌓
+
+
+
+-n
+an 𒀭
+en 𒂗,
+én,
+èn=LI 𒇷
+
+in 𒅔,
+in4=EN 𒂗,
+in5=NIN 𒊩𒌆
+
+un 𒌦,
+ún=U 𒌋
+
+
+
+-p
+ap=AB 𒀊
+ep=IB,
+ép=TUM 𒌈
+
+ip=IB 𒅁,
+íp=TUM 𒌈
+
+up=UB 𒌒,
+úp=ŠÈ 𒂠
+
+
+
+-r
+ar 𒅈,
+ár=UB 𒌒
+
+er=IR 𒅕
+ir 𒅕,
+íp=A.IGI 𒀀𒅆
+
+ur 𒌨,
+úr 𒌫
+
+
+
+-s
+as=AZ 𒊍
+es=GIŠ 𒄑,
+és=EŠ 𒂠
+
+is=GIŠ 𒄑,
+ís=EŠ 𒂠
+
+us=UZ,
+ús=UŠ 𒍑
+
+
+
+-š
+aš 𒀸,
+áš 𒀾
+
+eš 𒌍/𒐁,
+éš=ŠÈ 𒂠
+
+iš 𒅖,
+íš=KASKAL 𒆜
+
+uš 𒍑,
+úš𒍗=BAD 𒁁
+
+
+
+-t
+at=AD 𒀜,
+át=GÍR gunû 𒄉
+
+et=Á 𒀉
+it=Á 𒀉
+ut=UD 𒌓,
+út=ÁŠ 𒀾
+
+
+
+-z
+az 𒊍
+ez=GIŠ 𒄑,
+éz=EŠ 𒂠
+
+iz= GIŠ 𒄑,
+íz=IŠ 𒅖
+
+uz ,
+úz=UŠ 𒍑,
+ùz 𒍚
+
+
+
+
+আরও দেখুন
+
+
+
+
+Ancient Near East প্রবেশদ্বার
+
+
+
+
+
+Elamite cuneiform
+Hittite cuneiform
+Journal of Cuneiform Studies
+List of cuneiform signs
+Old Persian cuneiform
+Ugaritic alphabet
+
+
+গ্রন্থপঞ্জি
+
+Adkins, Lesley, Empires of the Plain: Henry Rawlinson and the Lost Languages of Babylon, New York, St. Martin's Press (2003) আইএসবিএন ০-৩১২-৩৩০০২-২
+R. Borger, Assyrisch-Babylonische Zeichenliste, 2nd ed., Neukirchen-Vluyn (1981)
+Borger, Rykle (২০০৪)। Dietrich, M. Loretz, O., সম্পাদক। । Alter Orient und Altes Testament। 305। Münster: Ugarit Verlag। আইএসবিএন 3-927120-82-0। উদ্ধৃতি টেমপ্লেট ইংরেজি প্যারামিটার ব্যবহার করেছে (link) উদ্ধৃতি শৈলী রক্ষণাবেক্ষণ: একাধিক নাম: সম্পাদকগণের তালিকা (link)
+Burnouf, E. (1836). "Mémoire sur deux Inscriptions Cunéiformes trouvées près d'Hamadan et qui font partie des papiers du Dr Schulz", Impr. Roy, Paris.
+Daniels, Peter (১৯৯৬)। The World's Writing Systems। Oxford University Press। পৃষ্ঠা 146। আইএসবিএন 0-19-507993-0।  অজানা প্যারামিটার |coauthors= উপেক্ষা করা হয়েছে (|author= ব্যবহারের পরামর্শ দেয়া হচ্ছে) (সাহায্য)উদ্ধৃতি টেমপ্লেট ইংরেজি প্যারামিটার ব্যবহার করেছে (link)
+A. Deimel (1922), Liste der archaischen Keilschriftzeichen ("LAK"), WVDOG 40, Berlin.
+A. Deimel (1925–1950), Šumerisches Lexikon, Pontificum Institutum Biblicum.
+F. Ellermeier, M. Studt, 
+
+vol. 1: 1979–1980, আইএসবিএন ৩-৯২১৭৪৭-০৮-২, আইএসবিএন ৩-৯২১৭৪৭-১০-৪
+vol. 3.2: 1998–2005, A-B আইএসবিএন ৩-৯২১৭৪৭-২৪-৪, D-E আইএসবিএন ৩-৯২১৭৪৭-২৫-২, G আইএসবিএন ৩-৯২১৭৪৭-২৯-৫
+vol. 3.3: আইএসবিএন ৩-৯২১৭৪৭-২২-৮ (font CD আইএসবিএন ৩-৯২১৭৪৭-২৩-৬)
+vol. 3.5: আইএসবিএন ৩-৯২১৭৪৭-২৬-০
+vol 3.6: 2003, Handbuch Assur আইএসবিএন ৩-৯২১৭৪৭-২৮-৭
+
+
+A. Falkenstein, Archaische Texte aus Uruk, Berlin-Leipzig (1936)
+E. Forrer, Die Keilschrift von Boghazköi, Leipzig (1922)
+J. Friedrich, Hethitisches Keilschrift-Lesebuch, Heidelberg (1960)
+Jean-Jacques Glassner, The Invention of Cuneiform, English translation, Johns Hopkins University Press (2003), আইএসবিএন ০-৮০১৮-৭৩৮৯-৪.
+Heeren (1815) "Ideen über die Politik, den Verkehr und den Handel der vornehmsten Volker der alten Welt", vol. i. pp. 563 seq., translated into English in 1833.
+René Labat, Manuel d'epigraphie Akkadienne, Geuthner, Paris (1959); 6th ed., extended by Florence Malbran-Labat (1999), আইএসবিএন ২-৭০৫৩-৩৫৮৩-৮.
+Lo, Lawrence (২০০৭)। । সংগ্রহের তারিখ জুন ৫, ২০০৯। উদ্ধৃতি টেমপ্লেট ইংরেজি প্যারামিটার ব্যবহার করেছে (link)
+Lassen, Christian. "Die Altpersischen Keil-Inschriften von Persepolis"
+O. Neugebauer, A. Sachs (eds.), Mathematical Cuneiform Texts, New Haven (1945).
+Patri, Sylvain (2009). L’adaptation des consonnes hittites dans certaines langues du XIIIe siècle. Zeitschrift für Assyriologie und vorderasiatische Archäologie 99(1): 87–126.
+Pritchard, James Cowles (1844). "Researches Into the Physical History of Mankind", 3rd Ed., Vol IV, Sherwood, Gilbert and Piper, London
+Rawlinson, Henry (1847) "The Persian Cuneiform Inscription at Behistun, decyphered and translated; with a Memoir on Persian Cuneiform Inscriptions in general, and on that of Behistun in Particular", The Journal of the Royal Asiatic Society, Vol X.
+Y. Rosengarten, Répertoire commenté des signes présargoniques sumériens de Lagash, Paris (1967)
+Chr. Rüster, E. Neu, Hethitisches Zeichenlexikon (HZL), Wiesbaden (1989)
+Nikolaus Schneider, Die Keilschriftzeichen der Wirtschaftsurkunden von Ur III nebst ihren charakteristischsten Schreibvarianten, Keilschrift-Paläographie; Heft 2, Rom: Päpstliches Bibelinstitut (1935).
+Wolfgang Schramm, Akkadische Logogramme, Goettinger Arbeitshefte zur Altorientalischen Literatur (GAAL) Heft 4, Goettingen (2003), আইএসবিএন ৩-৯৩৬২৯৭-০১-০.
+F. Thureau-Dangin, Recherches sur l'origine de l'écriture cunéiforme, Paris (1898).
+Ronald Herbert Sack, Cuneiform Documents from the Chaldean and Persian Periods, (1994) আইএসবিএন ০-৯৪৫৬৩৬-৬৭-৯
+
+তথ্যসূত্র
+
+
+↑ /[অসমর্থিত ইনপুট]kjuːˈniːᵻfɔːrm/ kew-NEE-i-form or /ˈkjuːnᵻfɔːrm/ KEW-ni-form
+
+
+বহিঃসংযোগ
+
+
+
+উইকিমিডিয়া কমন্সে  সংক্রান্ত মিডিয়া রয়েছে।
+
+
+
+ at the Open Directory Project
+ for Windows and Mac
+ and Akkadian font for Ubuntu Linux-based operating system (ttf-ancient-fonts)
+
+টেমপ্লেট:Ancient Mesopotamia
+
+
+
+
+
+
+দে
+
+
+
+লিখন পদ্ধতিসমূহের ধরনসমূহ
+
+
+
+
+
+
+
+সংক্ষিপ্ত বিবরণ
+
+
+
+লেখার ইতিহাস
+গ্রাফিম
+
+
+
+
+
+তালিকাসমূহ
+
+
+
+লিখনপদ্ধতি
+
+অবোধ্য
+স্রষ্টা
+সৃষ্ট লিপি
+
+
+Languages by writing system / by first written accounts
+
+
+
+
+
+
+
+
+
+
+
+
+
+ধরনসমূহ
+
+
+
+
+
+
+
+
+
+
+
+
+আবজাদ
+
+
+
+
+
+
+Numerals
+আরামাইক লিপি
+
+Hatran
+
+
+আরবি লিপি
+Pitman shorthand
+হিব্রু লিপি
+
+Ashuri
+Cursive
+Rashi
+Solitreo
+
+
+Libyco-Berber
+Manichaean
+নবতীয়
+Old North Arabian
+Pahlavi
+Paleo-Hebrew
+Pegon
+ফিনিশীয় লিপি
+প্রাক-সিনেটিক লিপি
+Psalter
+পুনিক
+Samaritan
+South Arabian
+
+Zabur
+Musnad
+
+
+Sogdian
+Syriac
+
+ʾEsṭrangēlā
+Serṭā
+Maḏnḥāyā
+
+
+Teeline Shorthand
+Ugaritic
+
+
+
+
+
+
+
+
+
+
+
+
+
+শব্দীয় বর্ণমালা লিপি
+
+
+
+
+
+
+
+Brahmic
+
+
+
+
+উত্তরাঞ্চলীয়
+
+
+
+অসমীয়া
+বাংলা
+ভৈক্ষুকি
+ভুজিঁমোল
+ব্রাহ্মী
+দেবনাগরী
+ডোগরী
+গুজরাতি
+Gupta
+গুরুমুখী
+Kaithi
+কলিঙ্গ লিপি
+খোজকি
+Khotanese
+খোদাবাদি
+Laṇḍā
+Lepcha
+Limbu
+Mahajani
+Marchen
+Marchung
+মৈতৈ লিপি
+Modi
+Multani
+Nāgarī
+Nandinagari
+ওড়িয়া লিপি
+'Phags-pa
+Newar
+Pungs-chen
+Pungs-chung
+Ranjana
+শারদা
+Saurashtra
+সিদ্ধং
+Soyombo
+সিলেটি নাগরী
+Takri
+তিব্বতি
+
+Uchen
+Umê
+
+
+Tirhuta
+Tocharian
+Zanabazar Square
+
+
+
+
+
+দক্ষিণাঞ্চলীয়
+
+
+
+Ahom
+Balinese
+Batak
+Baybayin
+Bhattiprolu
+Buhid
+Burmese
+চাকমা
+Cham
+Grantha
+Goykanadi
+Hanunó'o
+Javanese
+Kadamba
+কন্নড়
+Kawi
+Khmer
+Kulitan
+Lanna
+Lao
+Leke
+Lontara
+মালয়ালম
+Maldivian
+
+Dhives Akuru
+Eveyla Akuru
+
+
+Mon
+Old Sundanese
+Pallava
+Pyu
+Rejang
+Rencong
+সিংহলী
+Sundanese
+Tagbanwa
+Tai Le
+Tai Tham
+Tai Viet
+তামিল
+Telugu
+Thai
+Tigalari
+Vatteluttu
+
+Kolezhuthu
+Malayanma
+
+
+Visayan
+
+
+
+
+
+
+
+
+অন্যান্যরা
+
+
+
+Boyd's syllabic shorthand
+Canadian syllabics
+
+Blackfoot
+Déné syllabics
+
+
+Fox I
+Ge'ez
+Gunjala Gondi
+Japanese Braille
+Jenticha
+Kayah Li
+Kharosthi
+Mandombe
+Masaram Gondi
+Meroitic
+Miao
+Mwangwego
+Sorang Sompeng
+Pahawh Hmong
+Tāna
+Thomas Natural Shorthand
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+বর্ণমালা
+
+
+
+
+
+
+
+রৈখিক
+
+
+
+Abkhaz
+Adlam
+Armenian
+Avestan
+Avoiuli
+Bassa Vah
+Borama
+Carian
+Caucasian Albanian
+Coorgi–Cox alphabet
+Coptic
+Cyrillic
+Deseret
+Duployan shorthand
+
+Chinook writing
+
+
+Early Cyrillic
+Eclectic shorthand
+Elbasan
+Etruscan
+Evenki
+Fox II
+Fraser
+Gabelsberger shorthand
+Garay
+Georgian
+
+Asomtavruli
+Nuskhuri
+Mkhedruli
+
+
+Glagolitic
+Gothic
+Gregg shorthand
+Greek
+Greco-Iberian alphabet
+Hangul
+IPA
+Kaddare
+Latin
+
+Beneventan
+Blackletter
+Carolingian minuscule
+Fraktur
+Gaelic
+Insular
+Kurrent
+Merovingian
+Sigla
+Sütterlin
+Tironian notes
+Visigothic
+
+
+Luo
+Lycian
+Lydian
+Manchu
+Mandaic
+Molodtsov
+Mongolian
+Mru
+Neo-Tifinagh
+New Tai Lue
+N'Ko
+Ogham
+Oirat
+Ol Chiki
+Old Hungarian
+Old Italic
+Old Permic
+Orkhon
+Old Uyghur
+Osage
+Osmanya
+Pau Cin Hau
+Rohingya Hanifi
+Runic
+
+Anglo-Saxon
+Cipher
+Dalecarlian
+Elder Futhark
+Younger Futhark
+Gothic
+Marcomannic
+Medieval
+Staveless
+
+
+Sidetic
+Shavian
+Somali
+Stokoe notation
+Tifinagh
+Vagindra
+Visible Speech
+Vithkuqi
+Zaghawa
+
+
+
+
+
+অ-রৈখিক
+
+
+
+Braille
+Maritime flags
+Morse code
+New York Point
+Semaphore line
+Flag semaphore
+Moon type
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+মুদ্রিতলিপি/চিত্রলিপি
+
+
+
+
+
+
+Adinkra
+Aztec
+Blissymbol
+Dongba
+Ersu Shaba
+Emoji
+IConji
+Isotype
+Kaidā
+Míkmaq
+Mixtec
+New Epoch Notation Painting
+Nsibidi
+Ojibwe Hieroglyphs
+Siglas poveiras
+SignWriting
+Testerian
+Yerkish
+Zapotec
+
+
+
+
+
+
+
+
+
+
+
+
+
+চিত্রলিপি
+
+
+
+
+
+
+
+লিপির চীনা পরিবার
+
+
+
+
+চীনা অক্ষরসমূহ
+
+
+
+Simplified
+Traditional
+Oracle bone script
+Bronze Script
+Seal Script
+
+large
+small
+bird-worm
+
+
+Hanja
+Idu
+Kanji
+Chữ nôm
+Zhuang
+
+
+
+
+
+চীনা-প্রভাবিত
+
+
+
+Jurchen
+Khitan large script
+Sui
+Tangut
+
+
+
+
+
+
+
+
+কুনেইফর্ম
+
+
+
+Akkadian
+Assyrian
+Elamite
+Hittite
+Luwian
+Sumerian
+
+
+
+
+
+অন্যান্য লোগো-সিল্লাবিক
+
+
+
+Anatolian
+Bagam
+Cretan
+Isthmian
+Maya
+Proto-Elamite
+Yi (Classical)
+
+
+
+
+
+লোগো-ব্যঞ্জনবর্ণ
+
+
+
+Demotic
+Hieratic
+Hieroglyphs
+
+
+
+
+
+সংখ্যাসূচক
+
+
+
+Hindu-Arabic
+Abjad
+Attic (Greek)
+Roman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+অর্ধ-অক্ষরমালা
+
+
+
+
+
+
+
+সম্পূর্ণ
+
+
+
+Celtiberian
+Northeastern Iberian
+Southeastern Iberian
+Khom
+
+
+
+
+
+অপ্রয়োজনীয়
+
+
+
+Espanca
+Pahawh Hmong
+Khitan small script
+Southwest Paleohispanic
+Zhùyīn fúhào
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+অক্ষরমালা
+
+
+
+
+
+
+Afaka
+Bamum
+Bété
+Byblos
+Cherokee
+Cypriot
+Cypro-Minoan
+Eskayan
+Geba
+Great Lakes Algonquian syllabics
+Iban
+Japanese
+
+Hiragana
+Katakana
+Man'yōgana
+Hentaigana
+Sogana
+Jindai moji
+
+
+Kikakui
+Kpelle
+Linear B
+Linear Elamite
+Lisu
+Loma
+Nüshu
+Nwagu Aneke script
+Old Persian Cuneiform
+Vai
+Woleai
+Yi (Modern)
+Yugtun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+টেমপ্লেট:Braille
+
+
+
+
+
+
+
+
