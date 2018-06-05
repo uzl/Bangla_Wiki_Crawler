@@ -1,4 +1,4 @@
-# Multithreated Bangla Wikipidia Data Crawler
+# Multithreaded Bangla Wikipedia Data Crawler  
 
 ### How To Use:
  Open `MainRun.py` and change the root url in `ROOT_URL` and limit the max page number in `MAX_NUM`
